@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407070018103",
+    "project_id": "chessandchat-5f02a",
+    "storage_bucket": "chessandchat-5f02a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407070018103:android:19473d671ad49a99b0cdb2",
+        "android_client_info": {
+          "package_name": "com.shawnapp.chessandchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3E3aTKbEQRHZ7e2Gs224-pDmxChmguag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
