@@ -10,6 +10,7 @@ import androidx.compose.material.Button
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.MutableState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
@@ -33,11 +34,25 @@ import utils.Side
 fun App() {
     MaterialTheme {
         val turn = remember { mutableStateOf(Side.WHITE) }
+        val showingChessRoomId: MutableState<String?> = remember { mutableStateOf(null) }
 
-        Row {
-            ChessBoard(turn)
+        Column {
+            if (showingChessRoomId.value == null) {
+                Button(onClick = {
+                    CoroutineScope(Dispatchers.Default).launch {
+                        val id = addRoom()
+                        showingChessRoomId.value = id
+                    }
+                }) {
+                    Text("방 입장하기")
+                }
+            } else {
+                ChessBoard(id = showingChessRoomId.value!!)
+            }
 
-            Text("$turn.name")
+
+
+            Text("${turn.value}")
         }
 
 //        Column(Modifier.fillMaxWidth(), horizontalAlignment = Alignment.CenterHorizontally) {
@@ -53,16 +68,13 @@ fun App() {
     }
 }
 
-suspend fun addUser(): DocumentSnapshot {
+suspend fun addRoom(): String {
     val db = Firebase.firestore
 
-    val user = hashMapOf(
-        "first" to "Ada",
-        "last" to "Lovelace",
-        "born" to 1815,
+    val room = hashMapOf(
+        "white" to "user1",
+        "black" to "user2"
     )
 
-    return db.collection("users")
-        .add(user)
-        .get()
+    return db.collection("chessRooms").add(room).id
 }

@@ -35,7 +35,7 @@ class Knight(side: Side): Piece(side, 0) {
         }
     }
 
-    override fun getAvaliableRoot(x: Int, y: Int, pieces: Array<Array<Piece?>>): Array<Pair<Int, Int>> {
+    override fun getAvailableRoot(x: Int, y: Int, pieces: Array<Array<Piece?>>): Array<Pair<Int, Int>> {
         var paths: Array<Pair<Int, Int>> = arrayOf()
 
         for (add in arrayOf(Pair(1, 2), Pair(2, 1), Pair(1, -2), Pair(2, -1), Pair(-1, 2), Pair(-2, 1), Pair(-1, -2), Pair(-2, -1))) {

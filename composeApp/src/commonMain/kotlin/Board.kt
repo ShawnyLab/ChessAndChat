@@ -29,9 +29,11 @@ import utils.TileDark
 import utils.TileLight
 
 @Composable
-fun ChessBoard(turn: MutableState<Side>) {
+fun ChessBoard(id: String) {
     val chessBoardSize = 8
     val columns = listOf("a", "b", "c" ,"d", "e", "f", "g", "h")
+
+    val turn = remember { mutableStateOf(Side.WHITE) }
     var selectedTile: Pair<Int, Int>? by remember { mutableStateOf(null) }
     var path = remember { mutableStateOf(Array(8) { Array(8) { false } }) }
 
@@ -64,7 +66,7 @@ fun ChessBoard(turn: MutableState<Side>) {
                                             if (selectedTile == Pair(column, row)) {
                                                 selectedTile = null
                                             } else {
-                                                val coordinates = it.getAvaliableRoot(x = column, y = row, pieces = pieces.value)
+                                                val coordinates = it.getAvailableRoot(x = column, y = row, pieces = pieces.value)
 
                                                 for (coordinate in coordinates) {
                                                     path.value[coordinate.first][coordinate.second] = true
