@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.components:components-resources:skikoMain:1.5.11" type="kotlin.common" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.components" artifactId="components-resources" version="1.5.11" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/kotlinTransformedMetadataLibraries/org.jetbrains.compose.components-components-resources-1.5.11-skikoMain-wwpm0A.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.components/components-resources/1.5.11/cc7e39529b1e7d39745d24524e61634ed6fa755f/components-resources-1.5.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

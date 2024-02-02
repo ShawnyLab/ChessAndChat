@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.animation:animation:jsNativeMain:1.5.11" type="kotlin.common" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.animation" artifactId="animation" version="1.5.11" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/kotlinTransformedMetadataLibraries/org.jetbrains.compose.animation-animation-1.5.11-jsNativeMain-OUmZYw.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.animation/animation/1.5.11/f4e654a2f89704fdef7dd78c01ccb5321582d472/animation-1.5.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

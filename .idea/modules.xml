@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ChessAndChat.iml" filepath="$PROJECT_DIR$/.idea/modules/ChessAndChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.appleMain.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.appleMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.appleTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.appleTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.iosArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.iosArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.iosArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.iosArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.iosMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.iosSimulatorArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.iosSimulatorArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.iosSimulatorArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.iosSimulatorArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.iosTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.iosX64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.iosX64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.iosX64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.iosX64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.nativeMain.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.nativeMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.nativeTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.nativeTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ChessAndChat.composeApp.unitTest.iml" />
+    </modules>
+  </component>
+</project>

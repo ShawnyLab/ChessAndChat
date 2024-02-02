@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.ui:ui-graphics-uikitarm64:1.5.11" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.ui" artifactId="ui-graphics-uikitarm64" version="1.5.11" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-graphics-uikitarm64/1.5.11/79f72efc4e307a15b769ed7a899ef9f2d7b6f6d5/ui-graphics.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-graphics-uikitarm64/1.5.11/8306682b59667b87ba39a6df7c5edba0b270d0cb/ui-graphics-uikitarm64-1.5.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

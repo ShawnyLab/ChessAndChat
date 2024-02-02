@@ -6,13 +6,14 @@ plugins {
     alias(libs.plugins.androidApplication)
     alias(libs.plugins.jetbrainsCompose)
     id("com.google.gms.google-services")
+    kotlin("plugin.serialization") version "1.9.0" // This lines
 }
 
 kotlin {
     androidTarget {
         compilations.all {
             kotlinOptions {
-                jvmTarget = "1.8"
+                jvmTarget = "11"
             }
         }
     }
@@ -42,6 +43,10 @@ kotlin {
             implementation(compose.ui)
             @OptIn(ExperimentalComposeLibrary::class)
             implementation(compose.components.resources)
+            implementation("dev.gitlive:firebase-firestore:1.11.1") // This line
+            implementation("dev.gitlive:firebase-common:1.11.1")// This line
+            implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.5.1") // This line
+            implementation("dev.gitlive:firebase-config:1.11.1")
         }
     }
 }
@@ -72,16 +77,19 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_1_8
-        targetCompatibility = JavaVersion.VERSION_1_8
+        sourceCompatibility = JavaVersion.VERSION_11
+        targetCompatibility = JavaVersion.VERSION_11
     }
     dependencies {
         debugImplementation(libs.compose.ui.tooling)
-//        implementation("com.google.firebase:firebase-common-ktx:20.3.3") // This line
 
     }
 }
 dependencies {
     implementation(libs.firebase.common.ktx)
+    implementation("com.google.firebase:firebase-analytics")
+    implementation("com.google.firebase:firebase-firestore-ktx")
+    implementation("com.google.firebase:firebase-auth-ktx")
+    implementation(libs.androidx.media3.common)
 }
 

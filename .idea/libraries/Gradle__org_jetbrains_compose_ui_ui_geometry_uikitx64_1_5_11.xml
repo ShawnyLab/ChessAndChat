@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.ui:ui-geometry-uikitx64:1.5.11" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.ui" artifactId="ui-geometry-uikitx64" version="1.5.11" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-geometry-uikitx64/1.5.11/6e509cdf3b8f3ecf9f11447de89e3cd8fb40b883/ui-geometry.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-geometry-uikitx64/1.5.11/d4947e62284fd84340b1b139b1b39bec12c87710/ui-geometry-uikitx64-1.5.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

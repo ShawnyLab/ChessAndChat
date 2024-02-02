@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: dev.gitlive:firebase-common-iosarm64:1.11.1" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="dev.gitlive" artifactId="firebase-common-iosarm64" version="1.11.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.gitlive/firebase-common-iosarm64/1.11.1/d9e8af43cddea86a3301196bb8897f0fab51b862/firebase-common.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.gitlive/firebase-common-iosarm64/1.11.1/cc0aceb24e10203593a9fa55a9566d74334b606e/firebase-common-iosarm64-1.11.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

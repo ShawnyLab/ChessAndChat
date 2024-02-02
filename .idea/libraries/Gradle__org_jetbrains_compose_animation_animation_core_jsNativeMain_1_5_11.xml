@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.animation:animation-core:jsNativeMain:1.5.11" type="kotlin.common" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.animation" artifactId="animation-core" version="1.5.11" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/kotlinTransformedMetadataLibraries/org.jetbrains.compose.animation-animation-core-1.5.11-jsNativeMain-Tif8vQ.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.animation/animation-core/1.5.11/d7c84d6c5a3faf368304cc9f8342f81b430dcebf/animation-core-1.5.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

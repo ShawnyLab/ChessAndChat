@@ -1,3 +1,4 @@
+import Models.User
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Column
@@ -12,6 +13,12 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import dev.gitlive.firebase.Firebase
+import dev.gitlive.firebase.firestore.DocumentSnapshot
+import dev.gitlive.firebase.firestore.firestore
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
 import org.jetbrains.compose.resources.ExperimentalResourceApi
 import org.jetbrains.compose.resources.painterResource
 
@@ -22,7 +29,12 @@ fun App() {
         var showContent by remember { mutableStateOf(false) }
         val greeting = remember { Greeting().greet() }
         Column(Modifier.fillMaxWidth(), horizontalAlignment = Alignment.CenterHorizontally) {
-            Button(onClick = { showContent = !showContent }) {
+            Button(onClick = {
+                CoroutineScope(Dispatchers.Default).launch {
+                    val snapshot = addUser()
+                    print("$snapshot")
+                }
+            }) {
                 Text("Click me!")
             }
             AnimatedVisibility(showContent) {
@@ -33,4 +45,18 @@ fun App() {
             }
         }
     }
+}
+
+suspend fun addUser(): DocumentSnapshot {
+    val db = Firebase.firestore
+
+    val user = hashMapOf(
+        "first" to "Ada",
+        "last" to "Lovelace",
+        "born" to 1815,
+    )
+
+    return db.collection("users")
+        .add(user)
+        .get()
 }

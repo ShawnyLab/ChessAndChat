@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.ui:ui-graphics:jsNativeMain:1.5.11" type="kotlin.common" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.ui" artifactId="ui-graphics" version="1.5.11" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-graphics-1.5.11-jsNativeMain-R_T-1w.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-graphics/1.5.11/61dc83df361ff48aa46b760221821a615511cbc1/ui-graphics-1.5.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
