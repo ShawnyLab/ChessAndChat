@@ -21,7 +21,7 @@ open class Pawn(side: Side): Piece(side, 0) {
                 contentScale = ContentScale.FillWidth,
                 modifier = Modifier
                     .fillMaxSize()
-                    .padding(all = 10.dp)
+                    .padding(all = 3.dp)
             )
             Side.WHITE -> Image(
                 painter = painterResource("pawn_white.png"),
@@ -29,7 +29,7 @@ open class Pawn(side: Side): Piece(side, 0) {
                 contentScale = ContentScale.FillWidth,
                 modifier = Modifier
                     .fillMaxSize()
-                    .padding(all = 10.dp)
+                    .padding(all = 3.dp)
             )
         }
     }

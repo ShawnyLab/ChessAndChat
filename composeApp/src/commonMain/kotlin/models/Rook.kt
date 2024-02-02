@@ -22,13 +22,13 @@ class Rook(side: Side): Piece(side, 0) {
                 contentScale = ContentScale.FillWidth,
                 modifier = Modifier
                     .fillMaxSize()
-                    .padding(all = 10.dp))
+                    .padding(all = 3.dp))
             Side.BLACK -> Image(painter = painterResource("rook_black.png"),
                 contentDescription = null,
                 contentScale = ContentScale.FillWidth,
                 modifier = Modifier
                     .fillMaxSize()
-                    .padding(all = 10.dp))
+                    .padding(all = 3.dp))
         }
     }
 

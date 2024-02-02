@@ -23,7 +23,7 @@ class Bishop(side: Side): Piece(side, 0) {
                 contentScale = ContentScale.FillWidth,
                 modifier = Modifier
                     .fillMaxSize()
-                    .padding(all = 10.dp)
+                    .padding(all = 3.dp)
             )
             Side.BLACK -> Image(
                 painter = painterResource("bishop_black.png"),
@@ -31,7 +31,7 @@ class Bishop(side: Side): Piece(side, 0) {
                 contentScale = ContentScale.FillWidth,
                 modifier = Modifier
                     .fillMaxSize()
-                    .padding(all = 10.dp)
+                    .padding(all = 3.dp)
             )
         }
     }

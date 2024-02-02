@@ -10,9 +10,9 @@ import org.jetbrains.compose.resources.ExperimentalResourceApi
 import org.jetbrains.compose.resources.painterResource
 import utils.Side
 
+
 class Knight(side: Side): Piece(side, 0) {
     @OptIn(ExperimentalResourceApi::class)
-
     @Composable
     override fun Image() {
         when (side) {
@@ -22,7 +22,7 @@ class Knight(side: Side): Piece(side, 0) {
                 contentScale = ContentScale.FillWidth,
                 modifier = Modifier
                     .fillMaxSize()
-                    .padding(all = 10.dp)
+                    .padding(all = 3.dp)
             )
             Side.BLACK -> Image(
                 painter = painterResource("knight_black.png"),
@@ -30,7 +30,7 @@ class Knight(side: Side): Piece(side, 0) {
                 contentScale = ContentScale.FillWidth,
                 modifier = Modifier
                     .fillMaxSize()
-                    .padding(all = 10.dp)
+                    .padding(all = 3.dp)
             )
         }
     }

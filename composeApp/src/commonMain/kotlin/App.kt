@@ -2,6 +2,7 @@ import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.width
@@ -31,29 +32,24 @@ import utils.Side
 @Composable
 fun App() {
     MaterialTheme {
-        var showContent by remember { mutableStateOf(false) }
-        val greeting = remember { Greeting().greet() }
-        Column(Modifier.fillMaxWidth(), horizontalAlignment = Alignment.CenterHorizontally) {
-            Button(onClick = {
-                CoroutineScope(Dispatchers.Default).launch {
-                    val snapshot = addUser()
-                    print("$snapshot")
-                }
-            }) {
-                Text("Click me!")
-            }
-            AnimatedVisibility(showContent) {
-                Column(Modifier.fillMaxWidth(), horizontalAlignment = Alignment.CenterHorizontally) {
-                    Image(painterResource("compose-multiplatform.xml"), null)
-                    Text("Compose: $greeting")
-                }
-            }
+        val turn = remember { mutableStateOf(Side.WHITE) }
 
-            Box(modifier = Modifier.width(100.dp).height(100.dp)) {
-                Pawn(Side.BLACK).Image()
-            }
+        Row {
+            ChessBoard(turn)
 
+            Text("$turn.name")
         }
+
+//        Column(Modifier.fillMaxWidth(), horizontalAlignment = Alignment.CenterHorizontally) {
+
+//            AnimatedVisibility(showContent) {
+//                Column(Modifier.fillMaxWidth(), horizontalAlignment = Alignment.CenterHorizontally) {
+//                    Image(painterResource("compose-multiplatform.xml"), null)
+//                    Text("Compose: $greeting")
+//                }
+//            }
+//        }
+
     }
 }
 
