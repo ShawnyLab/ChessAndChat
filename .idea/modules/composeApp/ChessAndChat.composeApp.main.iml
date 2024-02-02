@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id=":composeApp:main" external.linked.project.path="$MODULE_DIR$/../../../composeApp" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
+    <facet external-system-id="GRADLE" type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/androidMain/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../composeApp/src/main/res;file://$MODULE_DIR$/../../../composeApp/src/androidMain/res;file://$MODULE_DIR$/../../../composeApp/src/debug/res;file://$MODULE_DIR$/../../../composeApp/src/androidDebug/res;file://$MODULE_DIR$/../../../composeApp/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
     <facet external-system-id="GRADLE" type="kotlin-language" name="Kotlin">
       <configuration version="5" platform="JVM 11" allPlatforms="JVM [11]" useProjectSettings="false" isTestModule="false" externalProjectId=":composeApp" isHmppProject="true" pureKotlinSourceFolders="$MODULE_DIR$/../../../composeApp/src/iosArm64Main/kotlin;/Users/jinspark/Desktop/CMP/ChessAndChat/composeApp/src/debug/kotlin;/Users/jinspark/Desktop/CMP/ChessAndChat/composeApp/src/androidDebug/kotlin;/Users/jinspark/Desktop/CMP/ChessAndChat/composeApp/src/debug/java;/Users/jinspark/Desktop/CMP/ChessAndChat/composeApp/src/iosSimulatorArm64Main/kotlin;/Users/jinspark/Desktop/CMP/ChessAndChat/composeApp/src/iosX64Main/kotlin">
         <dependsOnModuleNames>:composeApp:commonMain</dependsOnModuleNames>
@@ -27,28 +38,22 @@
             <arrayArg name="pluginClasspaths">
               <args>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.compiler/compiler/1.5.4/6a60f920cf0bcbd09085b5b3cb0a77db389f9c11/compiler-1.5.4.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-parcelize-compiler/1.9.21/c533b5b0849f732bc6ed7100ac8b647083c3e539/kotlin-parcelize-compiler-1.9.21.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.9.21/a8f2d2fed3fc195beef3fab4a7fd1a844e101f0e/kotlin-compiler-embeddable-1.9.21.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/1.9.21/39be7444439f0a9db3b2d5dd175f3b54f4a714d1/kotlin-scripting-jvm-1.9.21.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/1.9.21/8213aed8eac445b515678dbb407193b9da983038/kotlin-scripting-common-1.9.21.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.9.21/17ee3e873d439566c7d8354403b5f3d9744c4c9c/kotlin-stdlib-1.9.21.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.9.21/f5ff679bd666f7f2376209fff998b775b7b701c7/kotlin-script-runtime-1.9.21.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.6.10/1cbe9c92c12a94eea200d23c2bbaedaf3daf5132/kotlin-reflect-1.6.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-embeddable/1.9.21/e21e55f41ec5f254aec366097b902709b5843234/kotlin-daemon-embeddable-1.9.21.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.intellij.deps/trove4j/1.0.20200330/3afb14d5f9ceb459d724e907a21145e8ff394f02/trove4j-1.0.20200330.jar</arg>
                 <arg>$KOTLIN_BUNDLED$/lib/kotlinx-serialization-compiler-plugin.jar</arg>
               </args>
             </arrayArg>
             <arrayArg name="pluginOptions" />
           </arrayArguments>
         </compilerArguments>
-      </configuration>
-    </facet>
-    <facet external-system-id="GRADLE" type="android" name="Android">
-      <configuration>
-        <option name="SELECTED_BUILD_VARIANT" value="debug" />
-        <option name="ALLOW_USER_CONFIGURATION" value="false" />
-        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/androidMain/AndroidManifest.xml" />
-        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
-        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../composeApp/src/main/res;file://$MODULE_DIR$/../../../composeApp/src/androidMain/res;file://$MODULE_DIR$/../../../composeApp/src/debug/res;file://$MODULE_DIR$/../../../composeApp/src/androidDebug/res;file://$MODULE_DIR$/../../../composeApp/build/generated/res/resValues/debug" />
-        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="" />
-        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
       </configuration>
     </facet>
   </component>
@@ -194,5 +199,7 @@
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.6.0" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-jvm:1.6.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-encoders:17.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-parcelize-runtime:1.9.21" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-android-extensions-runtime:1.9.21" level="project" />
   </component>
 </module>

@@ -7,6 +7,7 @@ plugins {
     alias(libs.plugins.jetbrainsCompose)
     id("com.google.gms.google-services")
     kotlin("plugin.serialization") version "1.9.0" // This lines
+    id("kotlin-parcelize")
 }
 
 kotlin {
