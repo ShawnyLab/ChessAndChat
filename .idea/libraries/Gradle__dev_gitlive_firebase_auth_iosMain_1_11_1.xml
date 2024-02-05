@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: dev.gitlive:firebase-auth:iosMain:1.11.1" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="dev.gitlive" artifactId="firebase-auth" version="1.11.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/kotlinTransformedMetadataLibraries/dev.gitlive-firebase-auth-1.11.1-iosMain-NM6I6w.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.gitlive/firebase-auth/1.11.1/4fb28bf9b3d973ffe2a64e1424dd943b6e9ed4c5/firebase-auth-1.11.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

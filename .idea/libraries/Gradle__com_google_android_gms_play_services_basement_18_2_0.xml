@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-basement:18.2.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.google.android.gms" artifactId="play-services-basement" version="18.2.0" />
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-basement/18.2.0/726e058af3c0d8c592ebf1d9b7b68b57b1d710a3/play-services-basement-18.2.0.aar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

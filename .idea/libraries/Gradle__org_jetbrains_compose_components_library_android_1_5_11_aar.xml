@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: org.jetbrains.compose.components:library-android:1.5.11@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0a0eeacd8c3e36e25dba54a520e6b53f/transformed/library-release/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0a0eeacd8c3e36e25dba54a520e6b53f/transformed/library-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ee3f9ee44e94391063a7a8500dab0fb2/transformed/library-release/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ee3f9ee44e94391063a7a8500dab0fb2/transformed/library-release/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: dev.gitlive:firebase-database-iosx64:1.11.1" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="dev.gitlive" artifactId="firebase-database-iosx64" version="1.11.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.gitlive/firebase-database-iosx64/1.11.1/146e201fccb7ef36296d0f1cc1622abd4678e172/firebase-database.klib!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.gitlive/firebase-database-iosx64/1.11.1/f9c1f98bad55a3a53e34fa27a166a03c74feb3d0/firebase-database-cinterop-FirebaseDatabase.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.gitlive/firebase-database-iosx64/1.11.1/8d00bdf31f272b18847cf9864a6bb164b6b1de19/firebase-database-iosx64-1.11.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

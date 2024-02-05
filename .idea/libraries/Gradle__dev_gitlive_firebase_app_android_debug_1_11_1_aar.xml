@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: dev.gitlive:firebase-app-android-debug:1.11.1@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c40954ea43a2723c0ba60d41f3c1c3ca/transformed/firebase-app-debug/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c40954ea43a2723c0ba60d41f3c1c3ca/transformed/firebase-app-debug/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ec951ccefecca53935ccba9e8bf437a2/transformed/firebase-app-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ec951ccefecca53935ccba9e8bf437a2/transformed/firebase-app-debug/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

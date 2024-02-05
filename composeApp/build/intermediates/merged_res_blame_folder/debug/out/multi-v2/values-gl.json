@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.shawnapp.chessandchat.composeApp-mergeDebugResources-50:/values-gl/values-gl.xml",
+            "outputFile": "com.shawnapp.chessandchat.composeApp-mergeDebugResources-51:/values-gl/values-gl.xml",
             "map": [
                 {
-                    "source": "/Users/jinspark/.gradle/caches/transforms-3/490769e4321b1c74b54603e03a6f9bc3/transformed/ui-release/res/values-gl/values-gl.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,201,284,393,494,583,662,755,847,935,1008,1078,1163,1253,1330,1412,1484",
-                        "endColumns": "95,82,108,100,88,78,92,91,87,72,69,84,89,76,81,71,121",
-                        "endOffsets": "196,279,388,489,578,657,750,842,930,1003,1073,1158,1248,1325,1407,1479,1601"
-                    },
-                    "to": {
-                        "startLines": "9,10,30,31,32,36,37,38,39,40,41,42,43,44,46,47,48",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "833,929,3400,3509,3610,4019,4098,4191,4283,4371,4444,4514,4599,4689,4867,4949,5021",
-                        "endColumns": "95,82,108,100,88,78,92,91,87,72,69,84,89,76,81,71,121",
-                        "endOffsets": "924,1007,3504,3605,3694,4093,4186,4278,4366,4439,4509,4594,4684,4761,4944,5016,5138"
-                    }
-                },
-                {
-                    "source": "/Users/jinspark/.gradle/caches/transforms-3/b457f6c7cd0bba8fb79ab224d682de04/transformed/core-1.10.0/res/values-gl/values-gl.xml",
+                    "source": "/Users/jinspark/.gradle/caches/transforms-3/e27434c325762fdd577c5d9661608879/transformed/core-1.10.0/res/values-gl/values-gl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/jinspark/.gradle/caches/transforms-3/b549b7da0a2bb0f9119b78d92f0cee67/transformed/browser-1.4.0/res/values-gl/values-gl.xml",
+                    "source": "/Users/jinspark/.gradle/caches/transforms-3/dcb0a34053246f4aeeff9179c62371c2/transformed/browser-1.4.0/res/values-gl/values-gl.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -55,7 +38,24 @@
                     }
                 },
                 {
-                    "source": "/Users/jinspark/.gradle/caches/transforms-3/574f200d86046d7f6436e86a7674ea3d/transformed/play-services-base-18.0.1/res/values-gl/values.xml",
+                    "source": "/Users/jinspark/.gradle/caches/transforms-3/97e60da470bdfb6207ed0b42d095e7dc/transformed/ui-release/res/values-gl/values-gl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,201,284,393,494,583,662,755,847,935,1008,1078,1163,1253,1330,1412,1484",
+                        "endColumns": "95,82,108,100,88,78,92,91,87,72,69,84,89,76,81,71,121",
+                        "endOffsets": "196,279,388,489,578,657,750,842,930,1003,1073,1158,1248,1325,1407,1479,1601"
+                    },
+                    "to": {
+                        "startLines": "9,10,30,31,32,36,37,38,39,40,41,42,43,44,46,47,48",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "833,929,3400,3509,3610,4019,4098,4191,4283,4371,4444,4514,4599,4689,4867,4949,5021",
+                        "endColumns": "95,82,108,100,88,78,92,91,87,72,69,84,89,76,81,71,121",
+                        "endOffsets": "924,1007,3504,3605,3694,4093,4186,4278,4366,4439,4509,4594,4684,4761,4944,5016,5138"
+                    }
+                },
+                {
+                    "source": "/Users/jinspark/.gradle/caches/transforms-3/e66d97e9e65ab06b4268643231274c41/transformed/play-services-base-18.1.0/res/values-gl/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -72,7 +72,7 @@
                     }
                 },
                 {
-                    "source": "/Users/jinspark/.gradle/caches/transforms-3/02b847833c4e5c244c53ecd5322f9301/transformed/play-services-basement-18.1.0/res/values-gl/values.xml",
+                    "source": "/Users/jinspark/.gradle/caches/transforms-3/0505c7ca4391ca0b346596aee8b817ec/transformed/play-services-basement-18.2.0/res/values-gl/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

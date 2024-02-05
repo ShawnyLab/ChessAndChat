@@ -35,7 +35,7 @@ kotlin {
         androidMain.dependencies {
             implementation(libs.compose.ui.tooling.preview)
             implementation(libs.androidx.activity.compose)
-            implementation(platform("com.google.firebase:firebase-bom:30.0.1")) // This line to add the firebase bom
+            implementation(platform("com.google.firebase:firebase-bom:32.3.1")) // This line to add the firebase bom
         }
         commonMain.dependencies {
             implementation(compose.runtime)
@@ -44,10 +44,13 @@ kotlin {
             implementation(compose.ui)
             @OptIn(ExperimentalComposeLibrary::class)
             implementation(compose.components.resources)
+            implementation("dev.gitlive:firebase-database:1.11.1")
             implementation("dev.gitlive:firebase-firestore:1.11.1") // This line
             implementation("dev.gitlive:firebase-common:1.11.1")// This line
             implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.5.1") // This line
             implementation("dev.gitlive:firebase-config:1.11.1")
+            implementation("dev.gitlive:firebase-auth:1.11.1")
+            implementation("com.google.android.gms:play-services-auth:20.7.0")
         }
     }
 }
@@ -91,6 +94,7 @@ dependencies {
     implementation("com.google.firebase:firebase-analytics")
     implementation("com.google.firebase:firebase-firestore-ktx")
     implementation("com.google.firebase:firebase-auth-ktx")
-    implementation(libs.androidx.media3.common)
+    implementation("com.google.firebase:firebase-common-ktx")
+    implementation("com.google.android.gms:play-services-auth:20.7.0")
 }
 

@@ -1,44 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.shawnapp.chessandchat.composeApp-mergeDebugResources-50:/values-zh-rTW/values-zh-rTW.xml",
+            "outputFile": "com.shawnapp.chessandchat.composeApp-mergeDebugResources-51:/values-zh-rTW/values-zh-rTW.xml",
             "map": [
                 {
-                    "source": "/Users/jinspark/.gradle/caches/transforms-3/b549b7da0a2bb0f9119b78d92f0cee67/transformed/browser-1.4.0/res/values-zh-rTW/values-zh-rTW.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,139,231,332",
-                        "endColumns": "83,91,100,92",
-                        "endOffsets": "134,226,327,420"
-                    },
-                    "to": {
-                        "startLines": "29,33,34,35",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "2738,3078,3170,3271",
-                        "endColumns": "83,91,100,92",
-                        "endOffsets": "2817,3165,3266,3359"
-                    }
-                },
-                {
-                    "source": "/Users/jinspark/.gradle/caches/transforms-3/490769e4321b1c74b54603e03a6f9bc3/transformed/ui-release/res/values-zh-rTW/values-zh-rTW.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,182,258,345,436,514,588,665,743,818,883,948,1021,1096,1164,1238,1306",
-                        "endColumns": "76,75,86,90,77,73,76,77,74,64,64,72,74,67,73,67,115",
-                        "endOffsets": "177,253,340,431,509,583,660,738,813,878,943,1016,1091,1159,1233,1301,1417"
-                    },
-                    "to": {
-                        "startLines": "9,10,30,31,32,36,37,38,39,40,41,42,43,44,46,47,48",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "766,843,2822,2909,3000,3364,3438,3515,3593,3668,3733,3798,3871,3946,4115,4189,4257",
-                        "endColumns": "76,75,86,90,77,73,76,77,74,64,64,72,74,67,73,67,115",
-                        "endOffsets": "838,914,2904,2995,3073,3433,3510,3588,3663,3728,3793,3866,3941,4009,4184,4252,4368"
-                    }
-                },
-                {
-                    "source": "/Users/jinspark/.gradle/caches/transforms-3/02b847833c4e5c244c53ecd5322f9301/transformed/play-services-basement-18.1.0/res/values-zh-rTW/values.xml",
+                    "source": "/Users/jinspark/.gradle/caches/transforms-3/0505c7ca4391ca0b346596aee8b817ec/transformed/play-services-basement-18.2.0/res/values-zh-rTW/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -55,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/jinspark/.gradle/caches/transforms-3/b457f6c7cd0bba8fb79ab224d682de04/transformed/core-1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,147,246,340,434,527,620,716",
-                        "endColumns": "91,98,93,93,92,92,95,100",
-                        "endOffsets": "142,241,335,429,522,615,711,812"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,45",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,197,296,390,484,577,670,4014",
-                        "endColumns": "91,98,93,93,92,92,95,100",
-                        "endOffsets": "192,291,385,479,572,665,761,4110"
-                    }
-                },
-                {
-                    "source": "/Users/jinspark/.gradle/caches/transforms-3/574f200d86046d7f6436e86a7674ea3d/transformed/play-services-base-18.0.1/res/values-zh-rTW/values.xml",
+                    "source": "/Users/jinspark/.gradle/caches/transforms-3/e66d97e9e65ab06b4268643231274c41/transformed/play-services-base-18.1.0/res/values-zh-rTW/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -86,6 +35,57 @@
                         "startOffsets": "919,1020,1148,1263,1365,1472,1588,1688,1886,1996,2097,2226,2341,2443,2551,2607,2664",
                         "endColumns": "100,127,114,101,106,115,99,94,109,100,128,114,101,107,55,56,73",
                         "endOffsets": "1015,1143,1258,1360,1467,1583,1683,1778,1991,2092,2221,2336,2438,2546,2602,2659,2733"
+                    }
+                },
+                {
+                    "source": "/Users/jinspark/.gradle/caches/transforms-3/97e60da470bdfb6207ed0b42d095e7dc/transformed/ui-release/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,182,258,345,436,514,588,665,743,818,883,948,1021,1096,1164,1238,1306",
+                        "endColumns": "76,75,86,90,77,73,76,77,74,64,64,72,74,67,73,67,115",
+                        "endOffsets": "177,253,340,431,509,583,660,738,813,878,943,1016,1091,1159,1233,1301,1417"
+                    },
+                    "to": {
+                        "startLines": "9,10,30,31,32,36,37,38,39,40,41,42,43,44,46,47,48",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "766,843,2822,2909,3000,3364,3438,3515,3593,3668,3733,3798,3871,3946,4115,4189,4257",
+                        "endColumns": "76,75,86,90,77,73,76,77,74,64,64,72,74,67,73,67,115",
+                        "endOffsets": "838,914,2904,2995,3073,3433,3510,3588,3663,3728,3793,3866,3941,4009,4184,4252,4368"
+                    }
+                },
+                {
+                    "source": "/Users/jinspark/.gradle/caches/transforms-3/dcb0a34053246f4aeeff9179c62371c2/transformed/browser-1.4.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,139,231,332",
+                        "endColumns": "83,91,100,92",
+                        "endOffsets": "134,226,327,420"
+                    },
+                    "to": {
+                        "startLines": "29,33,34,35",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2738,3078,3170,3271",
+                        "endColumns": "83,91,100,92",
+                        "endOffsets": "2817,3165,3266,3359"
+                    }
+                },
+                {
+                    "source": "/Users/jinspark/.gradle/caches/transforms-3/e27434c325762fdd577c5d9661608879/transformed/core-1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,147,246,340,434,527,620,716",
+                        "endColumns": "91,98,93,93,92,92,95,100",
+                        "endOffsets": "142,241,335,429,522,615,711,812"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,45",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,197,296,390,484,577,670,4014",
+                        "endColumns": "91,98,93,93,92,92,95,100",
+                        "endOffsets": "192,291,385,479,572,665,761,4110"
                     }
                 }
             ]

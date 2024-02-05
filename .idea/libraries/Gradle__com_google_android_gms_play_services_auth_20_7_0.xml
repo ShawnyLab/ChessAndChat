@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-auth:20.7.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.google.android.gms" artifactId="play-services-auth" version="20.7.0" />
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-auth/20.7.0/746a56347e4a9b1fb644aa63b8add12b882e0daf/play-services-auth-20.7.0.aar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

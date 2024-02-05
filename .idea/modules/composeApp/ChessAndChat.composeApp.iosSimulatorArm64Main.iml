@@ -221,8 +221,10 @@
     <orderEntry type="library" name="Gradle: Kotlin/Native: MetalKit | ios_simulator_arm64" level="project" />
     <orderEntry type="library" name="Gradle: Kotlin/Native: ScreenTime | ios_simulator_arm64" level="project" />
     <orderEntry type="library" name="Gradle: Kotlin/Native: VisionKit | ios_simulator_arm64" level="project" />
+    <orderEntry type="library" name="Gradle: dev.gitlive:firebase-database-iossimulatorarm64:1.11.1" level="project" />
     <orderEntry type="library" name="Gradle: dev.gitlive:firebase-firestore-iossimulatorarm64:1.11.1" level="project" />
     <orderEntry type="library" name="Gradle: dev.gitlive:firebase-config-iossimulatorarm64:1.11.1" level="project" />
+    <orderEntry type="library" name="Gradle: dev.gitlive:firebase-auth-iossimulatorarm64:1.11.1" level="project" />
     <orderEntry type="library" name="Gradle: dev.gitlive:firebase-app-iossimulatorarm64:1.11.1" level="project" />
     <orderEntry type="library" name="Gradle: dev.gitlive:firebase-common-iossimulatorarm64:1.11.1" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.compose.material:material-uikitsimarm64:1.5.11" level="project" />
@@ -244,7 +246,41 @@
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-iossimulatorarm64:1.7.3" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.20" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.20" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-auth:20.7.0" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-iossimulatorarm64:1.5.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-auth-api-phone:18.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-auth-base:18.0.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-fido:20.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-base:18.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-tasks:18.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-basement:18.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-ui:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.asynclayoutinflater:asynclayoutinflater:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.interpolator:interpolator:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.documentfile:documentfile:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.print:print:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.1.0" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:atomicfu-iossimulatorarm64:0.21.0" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-util-uikitsimarm64:1.5.11" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-iossimulatorarm64:1.6.0" level="project" />

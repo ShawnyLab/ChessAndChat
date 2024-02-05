@@ -48,11 +48,13 @@
     <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui:commonMain:1.5.11" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.compose.components:components-resources:commonMain:1.5.11" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.compose.components:components-resources:commonButJSMain:1.5.11" level="project" />
+    <orderEntry type="library" name="Gradle: dev.gitlive:firebase-database:commonMain:1.11.1" level="project" />
     <orderEntry type="library" name="Gradle: dev.gitlive:firebase-firestore:commonMain:1.11.1" level="project" />
     <orderEntry type="library" name="Gradle: dev.gitlive:firebase-common:commonMain:1.11.1" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json:commonMain:1.5.1" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json:nativeMain:1.5.1" level="project" />
     <orderEntry type="library" name="Gradle: dev.gitlive:firebase-config:commonMain:1.11.1" level="project" />
+    <orderEntry type="library" name="Gradle: dev.gitlive:firebase-auth:commonMain:1.11.1" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.compose.animation:animation:commonMain:1.5.11" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.compose.animation:animation:nativeMain:1.5.11" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.compose.animation:animation:jsNativeMain:1.5.11" level="project" />
@@ -93,7 +95,43 @@
     <orderEntry type="library" name="Gradle: org.jetbrains.skiko:skiko:darwinMain:0.7.85.4" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.skiko:skiko:nativeMain:0.7.85.4" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.skiko:skiko:nativeJsMain:0.7.85.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-auth:20.7.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-auth-api-phone:18.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-auth-base:18.0.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-fido:20.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-base:18.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-tasks:18.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-basement:18.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-ui:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.asynclayoutinflater:asynclayoutinflater:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.20" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.20" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation-experimental:1.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.interpolator:interpolator:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.documentfile:documentfile:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.print:print:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.2.0" level="project" />
   </component>
 </module>

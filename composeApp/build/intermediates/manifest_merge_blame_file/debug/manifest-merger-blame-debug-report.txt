@@ -15,37 +15,37 @@
 12-->/Users/jinspark/Desktop/CMP/ChessAndChat/composeApp/src/androidMain/AndroidManifest.xml:5:5-78
 12-->/Users/jinspark/Desktop/CMP/ChessAndChat/composeApp/src/androidMain/AndroidManifest.xml:5:22-76
 13    <uses-permission android:name="android.permission.WAKE_LOCK" />
-13-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/19b105fb2f062f4e6faf9386eb50f081/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:24:5-68
-13-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/19b105fb2f062f4e6faf9386eb50f081/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:24:22-65
+13-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/43333c0846732f51c7a9b2c27a576368/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:24:5-68
+13-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/43333c0846732f51c7a9b2c27a576368/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:24:22-65
 14    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
-14-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/19b105fb2f062f4e6faf9386eb50f081/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:25:5-79
-14-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/19b105fb2f062f4e6faf9386eb50f081/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:25:22-76
+14-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/43333c0846732f51c7a9b2c27a576368/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:25:5-79
+14-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/43333c0846732f51c7a9b2c27a576368/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:25:22-76
 15    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_ATTRIBUTION" />
-15-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/19b105fb2f062f4e6faf9386eb50f081/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:26:5-88
-15-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/19b105fb2f062f4e6faf9386eb50f081/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:26:22-85
+15-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/43333c0846732f51c7a9b2c27a576368/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:26:5-88
+15-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/43333c0846732f51c7a9b2c27a576368/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:26:22-85
 16    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_AD_ID" />
-16-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/19b105fb2f062f4e6faf9386eb50f081/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:27:5-82
-16-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/19b105fb2f062f4e6faf9386eb50f081/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:27:22-79
+16-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/43333c0846732f51c7a9b2c27a576368/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:27:5-82
+16-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/43333c0846732f51c7a9b2c27a576368/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:27:22-79
 17    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-17-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/e9bdacdf69f0890189753e91a83a5491/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:26:5-110
-17-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/e9bdacdf69f0890189753e91a83a5491/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:26:22-107
+17-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/86ea016ff6e597f2732033e11ea20bcb/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:26:5-110
+17-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/86ea016ff6e597f2732033e11ea20bcb/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:26:22-107
 18
 19    <permission
-19-->[androidx.core:core:1.10.0] /Users/jinspark/.gradle/caches/transforms-3/b457f6c7cd0bba8fb79ab224d682de04/transformed/core-1.10.0/AndroidManifest.xml:22:5-24:47
+19-->[androidx.core:core:1.10.0] /Users/jinspark/.gradle/caches/transforms-3/e27434c325762fdd577c5d9661608879/transformed/core-1.10.0/AndroidManifest.xml:22:5-24:47
 20        android:name="com.shawnapp.chessandchat.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-20-->[androidx.core:core:1.10.0] /Users/jinspark/.gradle/caches/transforms-3/b457f6c7cd0bba8fb79ab224d682de04/transformed/core-1.10.0/AndroidManifest.xml:23:9-81
+20-->[androidx.core:core:1.10.0] /Users/jinspark/.gradle/caches/transforms-3/e27434c325762fdd577c5d9661608879/transformed/core-1.10.0/AndroidManifest.xml:23:9-81
 21        android:protectionLevel="signature" />
-21-->[androidx.core:core:1.10.0] /Users/jinspark/.gradle/caches/transforms-3/b457f6c7cd0bba8fb79ab224d682de04/transformed/core-1.10.0/AndroidManifest.xml:24:9-44
+21-->[androidx.core:core:1.10.0] /Users/jinspark/.gradle/caches/transforms-3/e27434c325762fdd577c5d9661608879/transformed/core-1.10.0/AndroidManifest.xml:24:9-44
 22
 23    <uses-permission android:name="com.shawnapp.chessandchat.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" /> <!-- This line -->
-23-->[androidx.core:core:1.10.0] /Users/jinspark/.gradle/caches/transforms-3/b457f6c7cd0bba8fb79ab224d682de04/transformed/core-1.10.0/AndroidManifest.xml:26:5-97
-23-->[androidx.core:core:1.10.0] /Users/jinspark/.gradle/caches/transforms-3/b457f6c7cd0bba8fb79ab224d682de04/transformed/core-1.10.0/AndroidManifest.xml:26:22-94
+23-->[androidx.core:core:1.10.0] /Users/jinspark/.gradle/caches/transforms-3/e27434c325762fdd577c5d9661608879/transformed/core-1.10.0/AndroidManifest.xml:26:5-97
+23-->[androidx.core:core:1.10.0] /Users/jinspark/.gradle/caches/transforms-3/e27434c325762fdd577c5d9661608879/transformed/core-1.10.0/AndroidManifest.xml:26:22-94
 24    <application
 24-->/Users/jinspark/Desktop/CMP/ChessAndChat/composeApp/src/androidMain/AndroidManifest.xml:7:5-24:19
 25        android:allowBackup="true"
 25-->/Users/jinspark/Desktop/CMP/ChessAndChat/composeApp/src/androidMain/AndroidManifest.xml:8:9-35
 26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-26-->[androidx.core:core:1.10.0] /Users/jinspark/.gradle/caches/transforms-3/b457f6c7cd0bba8fb79ab224d682de04/transformed/core-1.10.0/AndroidManifest.xml:28:18-86
+26-->[androidx.core:core:1.10.0] /Users/jinspark/.gradle/caches/transforms-3/e27434c325762fdd577c5d9661608879/transformed/core-1.10.0/AndroidManifest.xml:28:18-86
 27        android:debuggable="true"
 28        android:extractNativeLibs="false"
 29        android:icon="@mipmap/ic_launcher"
@@ -79,314 +79,357 @@
 43            </intent-filter>
 44        </activity>
 45        <activity
-45-->[androidx.compose.ui:ui-tooling-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/a277722d4bc9ac79f543d1aba09717a8/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+45-->[androidx.compose.ui:ui-tooling-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/d2a5202cabce0df44efd9356e2918926/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
 46            android:name="androidx.compose.ui.tooling.PreviewActivity"
-46-->[androidx.compose.ui:ui-tooling-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/a277722d4bc9ac79f543d1aba09717a8/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+46-->[androidx.compose.ui:ui-tooling-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/d2a5202cabce0df44efd9356e2918926/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
 47            android:exported="true" />
-47-->[androidx.compose.ui:ui-tooling-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/a277722d4bc9ac79f543d1aba09717a8/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+47-->[androidx.compose.ui:ui-tooling-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/d2a5202cabce0df44efd9356e2918926/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
 48
 49        <service
-49-->[com.google.firebase:firebase-auth-ktx:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/03c7b35305515b2ebf8c00bbcf2d1b3b/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:8:9-14:19
+49-->[com.google.firebase:firebase-auth-ktx:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/1cd5c01210119f54a39dffe04ab15935/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:8:9-14:19
 50            android:name="com.google.firebase.components.ComponentDiscoveryService"
-50-->[com.google.firebase:firebase-auth-ktx:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/03c7b35305515b2ebf8c00bbcf2d1b3b/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:9:13-84
+50-->[com.google.firebase:firebase-auth-ktx:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/1cd5c01210119f54a39dffe04ab15935/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:9:13-84
 51            android:directBootAware="true"
-51-->[com.google.firebase:firebase-common:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/981dec8823a8c15414ff3da5eabb5cf6/transformed/firebase-common-20.4.2/AndroidManifest.xml:32:13-43
+51-->[com.google.firebase:firebase-common:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/5f8ee1a41865ec9540c7b2adbef602de/transformed/firebase-common-20.4.2/AndroidManifest.xml:32:13-43
 52            android:exported="false" >
-52-->[com.google.firebase:firebase-auth-ktx:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/03c7b35305515b2ebf8c00bbcf2d1b3b/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:10:13-37
+52-->[com.google.firebase:firebase-auth-ktx:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/1cd5c01210119f54a39dffe04ab15935/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:10:13-37
 53            <meta-data
-53-->[com.google.firebase:firebase-auth-ktx:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/03c7b35305515b2ebf8c00bbcf2d1b3b/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:11:13-13:85
+53-->[com.google.firebase:firebase-auth-ktx:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/1cd5c01210119f54a39dffe04ab15935/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:11:13-13:85
 54                android:name="com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthLegacyRegistrar"
-54-->[com.google.firebase:firebase-auth-ktx:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/03c7b35305515b2ebf8c00bbcf2d1b3b/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:12:17-119
+54-->[com.google.firebase:firebase-auth-ktx:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/1cd5c01210119f54a39dffe04ab15935/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:12:17-119
 55                android:value="com.google.firebase.components.ComponentRegistrar" />
-55-->[com.google.firebase:firebase-auth-ktx:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/03c7b35305515b2ebf8c00bbcf2d1b3b/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:13:17-82
+55-->[com.google.firebase:firebase-auth-ktx:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/1cd5c01210119f54a39dffe04ab15935/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:13:17-82
 56            <meta-data
-56-->[com.google.firebase:firebase-firestore-ktx:24.10.0] /Users/jinspark/.gradle/caches/transforms-3/1c1d8cff097f3fd31fc44c383468a394/transformed/firebase-firestore-ktx-24.10.0/AndroidManifest.xml:12:13-14:85
-57                android:name="com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreLegacyRegistrar"
-57-->[com.google.firebase:firebase-firestore-ktx:24.10.0] /Users/jinspark/.gradle/caches/transforms-3/1c1d8cff097f3fd31fc44c383468a394/transformed/firebase-firestore-ktx-24.10.0/AndroidManifest.xml:13:17-129
+56-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:69:13-71:85
+57                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+57-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:70:17-109
 58                android:value="com.google.firebase.components.ComponentRegistrar" />
-58-->[com.google.firebase:firebase-firestore-ktx:24.10.0] /Users/jinspark/.gradle/caches/transforms-3/1c1d8cff097f3fd31fc44c383468a394/transformed/firebase-firestore-ktx-24.10.0/AndroidManifest.xml:14:17-82
+58-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:71:17-82
 59            <meta-data
-59-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/19b105fb2f062f4e6faf9386eb50f081/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:37:13-39:85
-60                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-60-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/19b105fb2f062f4e6faf9386eb50f081/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:38:17-139
+59-->[com.google.firebase:firebase-firestore-ktx:24.10.0] /Users/jinspark/.gradle/caches/transforms-3/86b0e9d51ac5fa0f934b326ef1a96157/transformed/firebase-firestore-ktx-24.10.0/AndroidManifest.xml:12:13-14:85
+60                android:name="com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreLegacyRegistrar"
+60-->[com.google.firebase:firebase-firestore-ktx:24.10.0] /Users/jinspark/.gradle/caches/transforms-3/86b0e9d51ac5fa0f934b326ef1a96157/transformed/firebase-firestore-ktx-24.10.0/AndroidManifest.xml:13:17-129
 61                android:value="com.google.firebase.components.ComponentRegistrar" />
-61-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/19b105fb2f062f4e6faf9386eb50f081/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:39:17-82
+61-->[com.google.firebase:firebase-firestore-ktx:24.10.0] /Users/jinspark/.gradle/caches/transforms-3/86b0e9d51ac5fa0f934b326ef1a96157/transformed/firebase-firestore-ktx-24.10.0/AndroidManifest.xml:14:17-82
 62            <meta-data
-62-->[com.google.firebase:firebase-firestore:24.10.0] /Users/jinspark/.gradle/caches/transforms-3/d6626d0f62e2f520f8b31e7154d4e83c/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:17:13-19:85
-63                android:name="com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar"
-63-->[com.google.firebase:firebase-firestore:24.10.0] /Users/jinspark/.gradle/caches/transforms-3/d6626d0f62e2f520f8b31e7154d4e83c/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:18:17-122
+62-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/43333c0846732f51c7a9b2c27a576368/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:37:13-39:85
+63                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+63-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/43333c0846732f51c7a9b2c27a576368/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:38:17-139
 64                android:value="com.google.firebase.components.ComponentRegistrar" />
-64-->[com.google.firebase:firebase-firestore:24.10.0] /Users/jinspark/.gradle/caches/transforms-3/d6626d0f62e2f520f8b31e7154d4e83c/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:19:17-82
+64-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/43333c0846732f51c7a9b2c27a576368/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:39:17-82
 65            <meta-data
-65-->[com.google.firebase:firebase-firestore:24.10.0] /Users/jinspark/.gradle/caches/transforms-3/d6626d0f62e2f520f8b31e7154d4e83c/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:20:13-22:85
-66                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
-66-->[com.google.firebase:firebase-firestore:24.10.0] /Users/jinspark/.gradle/caches/transforms-3/d6626d0f62e2f520f8b31e7154d4e83c/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:21:17-111
+65-->[com.google.firebase:firebase-firestore:24.10.0] /Users/jinspark/.gradle/caches/transforms-3/2151453886ca2315214dccec921e4072/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:17:13-19:85
+66                android:name="com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar"
+66-->[com.google.firebase:firebase-firestore:24.10.0] /Users/jinspark/.gradle/caches/transforms-3/2151453886ca2315214dccec921e4072/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:18:17-122
 67                android:value="com.google.firebase.components.ComponentRegistrar" />
-67-->[com.google.firebase:firebase-firestore:24.10.0] /Users/jinspark/.gradle/caches/transforms-3/d6626d0f62e2f520f8b31e7154d4e83c/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:22:17-82
+67-->[com.google.firebase:firebase-firestore:24.10.0] /Users/jinspark/.gradle/caches/transforms-3/2151453886ca2315214dccec921e4072/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:19:17-82
 68            <meta-data
-68-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:69:13-71:85
-69                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-69-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:70:17-109
+68-->[com.google.firebase:firebase-firestore:24.10.0] /Users/jinspark/.gradle/caches/transforms-3/2151453886ca2315214dccec921e4072/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:20:13-22:85
+69                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+69-->[com.google.firebase:firebase-firestore:24.10.0] /Users/jinspark/.gradle/caches/transforms-3/2151453886ca2315214dccec921e4072/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:21:17-111
 70                android:value="com.google.firebase.components.ComponentRegistrar" />
-70-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:71:17-82
+70-->[com.google.firebase:firebase-firestore:24.10.0] /Users/jinspark/.gradle/caches/transforms-3/2151453886ca2315214dccec921e4072/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:22:17-82
 71            <meta-data
-71-->[com.google.firebase:firebase-config-ktx:21.6.0] /Users/jinspark/.gradle/caches/transforms-3/eafbed3035c3e5a3c6a3533444ae1f80/transformed/firebase-config-ktx-21.6.0/AndroidManifest.xml:12:13-14:85
-72                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.ktx.FirebaseConfigLegacyRegistrar"
-72-->[com.google.firebase:firebase-config-ktx:21.6.0] /Users/jinspark/.gradle/caches/transforms-3/eafbed3035c3e5a3c6a3533444ae1f80/transformed/firebase-config-ktx-21.6.0/AndroidManifest.xml:13:17-129
+71-->[com.google.firebase:firebase-database-ktx:20.3.0] /Users/jinspark/.gradle/caches/transforms-3/868ed88df5baecbc48dbaa3f0d4d00a6/transformed/firebase-database-ktx-20.3.0/AndroidManifest.xml:12:13-14:85
+72                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseLegacyRegistrar"
+72-->[com.google.firebase:firebase-database-ktx:20.3.0] /Users/jinspark/.gradle/caches/transforms-3/868ed88df5baecbc48dbaa3f0d4d00a6/transformed/firebase-database-ktx-20.3.0/AndroidManifest.xml:13:17-127
 73                android:value="com.google.firebase.components.ComponentRegistrar" />
-73-->[com.google.firebase:firebase-config-ktx:21.6.0] /Users/jinspark/.gradle/caches/transforms-3/eafbed3035c3e5a3c6a3533444ae1f80/transformed/firebase-config-ktx-21.6.0/AndroidManifest.xml:14:17-82
+73-->[com.google.firebase:firebase-database-ktx:20.3.0] /Users/jinspark/.gradle/caches/transforms-3/868ed88df5baecbc48dbaa3f0d4d00a6/transformed/firebase-database-ktx-20.3.0/AndroidManifest.xml:14:17-82
 74            <meta-data
-74-->[com.google.firebase:firebase-config:21.6.0] /Users/jinspark/.gradle/caches/transforms-3/e796bba715e0da4a274dbb6fa72036ed/transformed/firebase-config-21.6.0/AndroidManifest.xml:29:13-31:85
-75                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.FirebaseRemoteConfigKtxRegistrar"
-75-->[com.google.firebase:firebase-config:21.6.0] /Users/jinspark/.gradle/caches/transforms-3/e796bba715e0da4a274dbb6fa72036ed/transformed/firebase-config-21.6.0/AndroidManifest.xml:30:17-128
+74-->[com.google.firebase:firebase-config-ktx:21.6.0] /Users/jinspark/.gradle/caches/transforms-3/f5e163326d656ddedb39fbb188d36b94/transformed/firebase-config-ktx-21.6.0/AndroidManifest.xml:12:13-14:85
+75                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.ktx.FirebaseConfigLegacyRegistrar"
+75-->[com.google.firebase:firebase-config-ktx:21.6.0] /Users/jinspark/.gradle/caches/transforms-3/f5e163326d656ddedb39fbb188d36b94/transformed/firebase-config-ktx-21.6.0/AndroidManifest.xml:13:17-129
 76                android:value="com.google.firebase.components.ComponentRegistrar" />
-76-->[com.google.firebase:firebase-config:21.6.0] /Users/jinspark/.gradle/caches/transforms-3/e796bba715e0da4a274dbb6fa72036ed/transformed/firebase-config-21.6.0/AndroidManifest.xml:31:17-82
+76-->[com.google.firebase:firebase-config-ktx:21.6.0] /Users/jinspark/.gradle/caches/transforms-3/f5e163326d656ddedb39fbb188d36b94/transformed/firebase-config-ktx-21.6.0/AndroidManifest.xml:14:17-82
 77            <meta-data
-77-->[com.google.firebase:firebase-config:21.6.0] /Users/jinspark/.gradle/caches/transforms-3/e796bba715e0da4a274dbb6fa72036ed/transformed/firebase-config-21.6.0/AndroidManifest.xml:32:13-34:85
-78                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
-78-->[com.google.firebase:firebase-config:21.6.0] /Users/jinspark/.gradle/caches/transforms-3/e796bba715e0da4a274dbb6fa72036ed/transformed/firebase-config-21.6.0/AndroidManifest.xml:33:17-117
+77-->[com.google.firebase:firebase-config:21.6.0] /Users/jinspark/.gradle/caches/transforms-3/a8166f6ee9b8a404f235a79b929683f6/transformed/firebase-config-21.6.0/AndroidManifest.xml:29:13-31:85
+78                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.FirebaseRemoteConfigKtxRegistrar"
+78-->[com.google.firebase:firebase-config:21.6.0] /Users/jinspark/.gradle/caches/transforms-3/a8166f6ee9b8a404f235a79b929683f6/transformed/firebase-config-21.6.0/AndroidManifest.xml:30:17-128
 79                android:value="com.google.firebase.components.ComponentRegistrar" />
-79-->[com.google.firebase:firebase-config:21.6.0] /Users/jinspark/.gradle/caches/transforms-3/e796bba715e0da4a274dbb6fa72036ed/transformed/firebase-config-21.6.0/AndroidManifest.xml:34:17-82
+79-->[com.google.firebase:firebase-config:21.6.0] /Users/jinspark/.gradle/caches/transforms-3/a8166f6ee9b8a404f235a79b929683f6/transformed/firebase-config-21.6.0/AndroidManifest.xml:31:17-82
 80            <meta-data
-80-->[com.google.firebase:firebase-installations:17.2.0] /Users/jinspark/.gradle/caches/transforms-3/809e7ecf541a220b649d0833ecc0f6a1/transformed/firebase-installations-17.2.0/AndroidManifest.xml:15:13-17:85
-81                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar"
-81-->[com.google.firebase:firebase-installations:17.2.0] /Users/jinspark/.gradle/caches/transforms-3/809e7ecf541a220b649d0833ecc0f6a1/transformed/firebase-installations-17.2.0/AndroidManifest.xml:16:17-130
+80-->[com.google.firebase:firebase-config:21.6.0] /Users/jinspark/.gradle/caches/transforms-3/a8166f6ee9b8a404f235a79b929683f6/transformed/firebase-config-21.6.0/AndroidManifest.xml:32:13-34:85
+81                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
+81-->[com.google.firebase:firebase-config:21.6.0] /Users/jinspark/.gradle/caches/transforms-3/a8166f6ee9b8a404f235a79b929683f6/transformed/firebase-config-21.6.0/AndroidManifest.xml:33:17-117
 82                android:value="com.google.firebase.components.ComponentRegistrar" />
-82-->[com.google.firebase:firebase-installations:17.2.0] /Users/jinspark/.gradle/caches/transforms-3/809e7ecf541a220b649d0833ecc0f6a1/transformed/firebase-installations-17.2.0/AndroidManifest.xml:17:17-82
+82-->[com.google.firebase:firebase-config:21.6.0] /Users/jinspark/.gradle/caches/transforms-3/a8166f6ee9b8a404f235a79b929683f6/transformed/firebase-config-21.6.0/AndroidManifest.xml:34:17-82
 83            <meta-data
-83-->[com.google.firebase:firebase-installations:17.2.0] /Users/jinspark/.gradle/caches/transforms-3/809e7ecf541a220b649d0833ecc0f6a1/transformed/firebase-installations-17.2.0/AndroidManifest.xml:18:13-20:85
-84                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-84-->[com.google.firebase:firebase-installations:17.2.0] /Users/jinspark/.gradle/caches/transforms-3/809e7ecf541a220b649d0833ecc0f6a1/transformed/firebase-installations-17.2.0/AndroidManifest.xml:19:17-127
+83-->[com.google.firebase:firebase-installations:17.2.0] /Users/jinspark/.gradle/caches/transforms-3/35b05211ebb71e03227ef058ec75e57a/transformed/firebase-installations-17.2.0/AndroidManifest.xml:15:13-17:85
+84                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar"
+84-->[com.google.firebase:firebase-installations:17.2.0] /Users/jinspark/.gradle/caches/transforms-3/35b05211ebb71e03227ef058ec75e57a/transformed/firebase-installations-17.2.0/AndroidManifest.xml:16:17-130
 85                android:value="com.google.firebase.components.ComponentRegistrar" />
-85-->[com.google.firebase:firebase-installations:17.2.0] /Users/jinspark/.gradle/caches/transforms-3/809e7ecf541a220b649d0833ecc0f6a1/transformed/firebase-installations-17.2.0/AndroidManifest.xml:20:17-82
+85-->[com.google.firebase:firebase-installations:17.2.0] /Users/jinspark/.gradle/caches/transforms-3/35b05211ebb71e03227ef058ec75e57a/transformed/firebase-installations-17.2.0/AndroidManifest.xml:17:17-82
 86            <meta-data
-86-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/77e11574c6777661eeabefb74f2cb529/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:12:13-14:85
-87                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
-87-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/77e11574c6777661eeabefb74f2cb529/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:13:17-116
+86-->[com.google.firebase:firebase-installations:17.2.0] /Users/jinspark/.gradle/caches/transforms-3/35b05211ebb71e03227ef058ec75e57a/transformed/firebase-installations-17.2.0/AndroidManifest.xml:18:13-20:85
+87                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+87-->[com.google.firebase:firebase-installations:17.2.0] /Users/jinspark/.gradle/caches/transforms-3/35b05211ebb71e03227ef058ec75e57a/transformed/firebase-installations-17.2.0/AndroidManifest.xml:19:17-127
 88                android:value="com.google.firebase.components.ComponentRegistrar" />
-88-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/77e11574c6777661eeabefb74f2cb529/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:14:17-82
+88-->[com.google.firebase:firebase-installations:17.2.0] /Users/jinspark/.gradle/caches/transforms-3/35b05211ebb71e03227ef058ec75e57a/transformed/firebase-installations-17.2.0/AndroidManifest.xml:20:17-82
 89            <meta-data
-89-->[com.google.firebase:firebase-common:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/981dec8823a8c15414ff3da5eabb5cf6/transformed/firebase-common-20.4.2/AndroidManifest.xml:35:13-37:85
-90                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
-90-->[com.google.firebase:firebase-common:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/981dec8823a8c15414ff3da5eabb5cf6/transformed/firebase-common-20.4.2/AndroidManifest.xml:36:17-109
+89-->[com.google.firebase:firebase-database:20.3.0] /Users/jinspark/.gradle/caches/transforms-3/afa1d97a18249917f5e6cf2f6e7e3442/transformed/firebase-database-20.3.0/AndroidManifest.xml:29:13-31:85
+90                android:name="com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar"
+90-->[com.google.firebase:firebase-database:20.3.0] /Users/jinspark/.gradle/caches/transforms-3/afa1d97a18249917f5e6cf2f6e7e3442/transformed/firebase-database-20.3.0/AndroidManifest.xml:30:17-120
 91                android:value="com.google.firebase.components.ComponentRegistrar" />
-91-->[com.google.firebase:firebase-common:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/981dec8823a8c15414ff3da5eabb5cf6/transformed/firebase-common-20.4.2/AndroidManifest.xml:37:17-82
+91-->[com.google.firebase:firebase-database:20.3.0] /Users/jinspark/.gradle/caches/transforms-3/afa1d97a18249917f5e6cf2f6e7e3442/transformed/firebase-database-20.3.0/AndroidManifest.xml:31:17-82
 92            <meta-data
-92-->[com.google.firebase:firebase-abt:21.1.1] /Users/jinspark/.gradle/caches/transforms-3/0a637a1425ba5a2d741b3f5f604a3c3a/transformed/firebase-abt-21.1.1/AndroidManifest.xml:12:13-14:85
-93                android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
-93-->[com.google.firebase:firebase-abt:21.1.1] /Users/jinspark/.gradle/caches/transforms-3/0a637a1425ba5a2d741b3f5f604a3c3a/transformed/firebase-abt-21.1.1/AndroidManifest.xml:13:17-109
+92-->[com.google.firebase:firebase-database:20.3.0] /Users/jinspark/.gradle/caches/transforms-3/afa1d97a18249917f5e6cf2f6e7e3442/transformed/firebase-database-20.3.0/AndroidManifest.xml:32:13-34:85
+93                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+93-->[com.google.firebase:firebase-database:20.3.0] /Users/jinspark/.gradle/caches/transforms-3/afa1d97a18249917f5e6cf2f6e7e3442/transformed/firebase-database-20.3.0/AndroidManifest.xml:33:17-109
 94                android:value="com.google.firebase.components.ComponentRegistrar" />
-94-->[com.google.firebase:firebase-abt:21.1.1] /Users/jinspark/.gradle/caches/transforms-3/0a637a1425ba5a2d741b3f5f604a3c3a/transformed/firebase-abt-21.1.1/AndroidManifest.xml:14:17-82
-95        </service>
-96
-97        <property
-97-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/19b105fb2f062f4e6faf9386eb50f081/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:30:9-32:61
-98            android:name="android.adservices.AD_SERVICES_CONFIG"
-98-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/19b105fb2f062f4e6faf9386eb50f081/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:31:13-65
-99            android:resource="@xml/ga_ad_services_config" />
-99-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/19b105fb2f062f4e6faf9386eb50f081/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:32:13-58
-100
-101        <activity
-101-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:29:9-46:20
-102            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
-102-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:30:13-80
-103            android:excludeFromRecents="true"
-103-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:31:13-46
-104            android:exported="true"
-104-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:32:13-36
-105            android:launchMode="singleTask"
-105-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:33:13-44
-106            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-106-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:34:13-72
-107            <intent-filter>
-107-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:35:13-45:29
-108                <action android:name="android.intent.action.VIEW" />
-108-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:36:17-69
-108-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:36:25-66
-109
-110                <category android:name="android.intent.category.DEFAULT" />
-110-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:38:17-76
-110-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:38:27-73
-111                <category android:name="android.intent.category.BROWSABLE" />
-111-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:39:17-78
-111-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:39:27-75
-112
-113                <data
-113-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:41:17-44:51
-114                    android:host="firebase.auth"
-114-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:42:21-49
-115                    android:path="/"
-115-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:43:21-37
-116                    android:scheme="genericidp" />
-116-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:44:21-48
-117            </intent-filter>
-118        </activity>
-119        <activity
-119-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:47:9-64:20
-120            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
-120-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:48:13-79
-121            android:excludeFromRecents="true"
-121-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:49:13-46
-122            android:exported="true"
-122-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:50:13-36
-123            android:launchMode="singleTask"
-123-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:51:13-44
-124            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-124-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:52:13-72
-125            <intent-filter>
-125-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:53:13-63:29
-126                <action android:name="android.intent.action.VIEW" />
-126-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:36:17-69
-126-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:36:25-66
-127
-128                <category android:name="android.intent.category.DEFAULT" />
-128-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:38:17-76
-128-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:38:27-73
-129                <category android:name="android.intent.category.BROWSABLE" />
-129-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:39:17-78
-129-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:39:27-75
-130
-131                <data
-131-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:41:17-44:51
-132                    android:host="firebase.auth"
-132-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:42:21-49
-133                    android:path="/"
-133-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:43:21-37
-134                    android:scheme="recaptcha" />
-134-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/3ca43cc6ec3f480f57269735f588649c/transformed/firebase-auth-22.3.0/AndroidManifest.xml:44:21-48
-135            </intent-filter>
-136        </activity>
-137
-138        <provider
-138-->[com.google.firebase:firebase-common:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/981dec8823a8c15414ff3da5eabb5cf6/transformed/firebase-common-20.4.2/AndroidManifest.xml:23:9-28:39
-139            android:name="com.google.firebase.provider.FirebaseInitProvider"
-139-->[com.google.firebase:firebase-common:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/981dec8823a8c15414ff3da5eabb5cf6/transformed/firebase-common-20.4.2/AndroidManifest.xml:24:13-77
-140            android:authorities="com.shawnapp.chessandchat.firebaseinitprovider"
-140-->[com.google.firebase:firebase-common:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/981dec8823a8c15414ff3da5eabb5cf6/transformed/firebase-common-20.4.2/AndroidManifest.xml:25:13-72
-141            android:directBootAware="true"
-141-->[com.google.firebase:firebase-common:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/981dec8823a8c15414ff3da5eabb5cf6/transformed/firebase-common-20.4.2/AndroidManifest.xml:26:13-43
-142            android:exported="false"
-142-->[com.google.firebase:firebase-common:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/981dec8823a8c15414ff3da5eabb5cf6/transformed/firebase-common-20.4.2/AndroidManifest.xml:27:13-37
-143            android:initOrder="100" />
-143-->[com.google.firebase:firebase-common:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/981dec8823a8c15414ff3da5eabb5cf6/transformed/firebase-common-20.4.2/AndroidManifest.xml:28:13-36
-144
-145        <receiver
-145-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/e9bdacdf69f0890189753e91a83a5491/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:29:9-33:20
-146            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-146-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/e9bdacdf69f0890189753e91a83a5491/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:30:13-85
-147            android:enabled="true"
-147-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/e9bdacdf69f0890189753e91a83a5491/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:31:13-35
-148            android:exported="false" >
-148-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/e9bdacdf69f0890189753e91a83a5491/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:32:13-37
-149        </receiver>
+94-->[com.google.firebase:firebase-database:20.3.0] /Users/jinspark/.gradle/caches/transforms-3/afa1d97a18249917f5e6cf2f6e7e3442/transformed/firebase-database-20.3.0/AndroidManifest.xml:34:17-82
+95            <meta-data
+95-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/2d2712d3b53fbb493abb73399ccca655/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:12:13-14:85
+96                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+96-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/2d2712d3b53fbb493abb73399ccca655/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:13:17-116
+97                android:value="com.google.firebase.components.ComponentRegistrar" />
+97-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/2d2712d3b53fbb493abb73399ccca655/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:14:17-82
+98            <meta-data
+98-->[com.google.firebase:firebase-common:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/5f8ee1a41865ec9540c7b2adbef602de/transformed/firebase-common-20.4.2/AndroidManifest.xml:35:13-37:85
+99                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+99-->[com.google.firebase:firebase-common:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/5f8ee1a41865ec9540c7b2adbef602de/transformed/firebase-common-20.4.2/AndroidManifest.xml:36:17-109
+100                android:value="com.google.firebase.components.ComponentRegistrar" />
+100-->[com.google.firebase:firebase-common:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/5f8ee1a41865ec9540c7b2adbef602de/transformed/firebase-common-20.4.2/AndroidManifest.xml:37:17-82
+101            <meta-data
+101-->[com.google.firebase:firebase-abt:21.1.1] /Users/jinspark/.gradle/caches/transforms-3/cce6ee217c31ab9bb959d989eaf347af/transformed/firebase-abt-21.1.1/AndroidManifest.xml:12:13-14:85
+102                android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
+102-->[com.google.firebase:firebase-abt:21.1.1] /Users/jinspark/.gradle/caches/transforms-3/cce6ee217c31ab9bb959d989eaf347af/transformed/firebase-abt-21.1.1/AndroidManifest.xml:13:17-109
+103                android:value="com.google.firebase.components.ComponentRegistrar" />
+103-->[com.google.firebase:firebase-abt:21.1.1] /Users/jinspark/.gradle/caches/transforms-3/cce6ee217c31ab9bb959d989eaf347af/transformed/firebase-abt-21.1.1/AndroidManifest.xml:14:17-82
+104        </service>
+105
+106        <activity
+106-->[com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:23:9-27:75
+107            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+107-->[com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:24:13-93
+108            android:excludeFromRecents="true"
+108-->[com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:25:13-46
+109            android:exported="false"
+109-->[com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:26:13-37
+110            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+110-->[com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:27:13-72
+111        <!--
+112            Service handling Google Sign-In user revocation. For apps that do not integrate with
+113            Google Sign-In, this service will never be started.
+114        -->
+115        <service
+115-->[com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:33:9-37:51
+116            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+116-->[com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:34:13-89
+117            android:exported="true"
+117-->[com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:35:13-36
+118            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+118-->[com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:36:13-107
+119            android:visibleToInstantApps="true" />
+119-->[com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:37:13-48
+120
+121        <activity
+121-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:29:9-46:20
+122            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+122-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:30:13-80
+123            android:excludeFromRecents="true"
+123-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:31:13-46
+124            android:exported="true"
+124-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:32:13-36
+125            android:launchMode="singleTask"
+125-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:33:13-44
+126            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+126-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:34:13-72
+127            <intent-filter>
+127-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:35:13-45:29
+128                <action android:name="android.intent.action.VIEW" />
+128-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:36:17-69
+128-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:36:25-66
+129
+130                <category android:name="android.intent.category.DEFAULT" />
+130-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:38:17-76
+130-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:38:27-73
+131                <category android:name="android.intent.category.BROWSABLE" />
+131-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:39:17-78
+131-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:39:27-75
+132
+133                <data
+133-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:41:17-44:51
+134                    android:host="firebase.auth"
+134-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:42:21-49
+135                    android:path="/"
+135-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:43:21-37
+136                    android:scheme="genericidp" />
+136-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:44:21-48
+137            </intent-filter>
+138        </activity>
+139        <activity
+139-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:47:9-64:20
+140            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+140-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:48:13-79
+141            android:excludeFromRecents="true"
+141-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:49:13-46
+142            android:exported="true"
+142-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:50:13-36
+143            android:launchMode="singleTask"
+143-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:51:13-44
+144            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+144-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:52:13-72
+145            <intent-filter>
+145-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:53:13-63:29
+146                <action android:name="android.intent.action.VIEW" />
+146-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:36:17-69
+146-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:36:25-66
+147
+148                <category android:name="android.intent.category.DEFAULT" />
+148-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:38:17-76
+148-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:38:27-73
+149                <category android:name="android.intent.category.BROWSABLE" />
+149-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:39:17-78
+149-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:39:27-75
 150
-151        <service
-151-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/e9bdacdf69f0890189753e91a83a5491/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:35:9-38:40
-152            android:name="com.google.android.gms.measurement.AppMeasurementService"
-152-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/e9bdacdf69f0890189753e91a83a5491/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:36:13-84
-153            android:enabled="true"
-153-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/e9bdacdf69f0890189753e91a83a5491/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:37:13-35
-154            android:exported="false" />
-154-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/e9bdacdf69f0890189753e91a83a5491/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:38:13-37
-155        <service
-155-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/e9bdacdf69f0890189753e91a83a5491/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:39:9-43:72
-156            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-156-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/e9bdacdf69f0890189753e91a83a5491/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:40:13-87
-157            android:enabled="true"
-157-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/e9bdacdf69f0890189753e91a83a5491/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:41:13-35
-158            android:exported="false"
-158-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/e9bdacdf69f0890189753e91a83a5491/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:42:13-37
-159            android:permission="android.permission.BIND_JOB_SERVICE" />
-159-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/e9bdacdf69f0890189753e91a83a5491/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:43:13-69
-160
-161        <uses-library
-161-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/jinspark/.gradle/caches/transforms-3/1c2e6ca658f0bbde89c1973d386ffb85/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
-162            android:name="android.ext.adservices"
-162-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/jinspark/.gradle/caches/transforms-3/1c2e6ca658f0bbde89c1973d386ffb85/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:24:13-50
-163            android:required="false" />
-163-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/jinspark/.gradle/caches/transforms-3/1c2e6ca658f0bbde89c1973d386ffb85/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:25:13-37
-164
-165        <activity
-165-->[com.google.android.gms:play-services-base:18.0.1] /Users/jinspark/.gradle/caches/transforms-3/574f200d86046d7f6436e86a7674ea3d/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
-166            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-166-->[com.google.android.gms:play-services-base:18.0.1] /Users/jinspark/.gradle/caches/transforms-3/574f200d86046d7f6436e86a7674ea3d/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
-167            android:exported="false"
-167-->[com.google.android.gms:play-services-base:18.0.1] /Users/jinspark/.gradle/caches/transforms-3/574f200d86046d7f6436e86a7674ea3d/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
-168            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-168-->[com.google.android.gms:play-services-base:18.0.1] /Users/jinspark/.gradle/caches/transforms-3/574f200d86046d7f6436e86a7674ea3d/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
-169
-170        <meta-data
-170-->[com.google.android.gms:play-services-basement:18.1.0] /Users/jinspark/.gradle/caches/transforms-3/02b847833c4e5c244c53ecd5322f9301/transformed/play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
-171            android:name="com.google.android.gms.version"
-171-->[com.google.android.gms:play-services-basement:18.1.0] /Users/jinspark/.gradle/caches/transforms-3/02b847833c4e5c244c53ecd5322f9301/transformed/play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
-172            android:value="@integer/google_play_services_version" />
-172-->[com.google.android.gms:play-services-basement:18.1.0] /Users/jinspark/.gradle/caches/transforms-3/02b847833c4e5c244c53ecd5322f9301/transformed/play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
-173
-174        <provider
-174-->[androidx.emoji2:emoji2:1.4.0] /Users/jinspark/.gradle/caches/transforms-3/ca465fec743ba01bf3629ca5e05fc1e2/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
-175            android:name="androidx.startup.InitializationProvider"
-175-->[androidx.emoji2:emoji2:1.4.0] /Users/jinspark/.gradle/caches/transforms-3/ca465fec743ba01bf3629ca5e05fc1e2/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
-176            android:authorities="com.shawnapp.chessandchat.androidx-startup"
-176-->[androidx.emoji2:emoji2:1.4.0] /Users/jinspark/.gradle/caches/transforms-3/ca465fec743ba01bf3629ca5e05fc1e2/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
-177            android:exported="false" >
-177-->[androidx.emoji2:emoji2:1.4.0] /Users/jinspark/.gradle/caches/transforms-3/ca465fec743ba01bf3629ca5e05fc1e2/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
-178            <meta-data
-178-->[androidx.emoji2:emoji2:1.4.0] /Users/jinspark/.gradle/caches/transforms-3/ca465fec743ba01bf3629ca5e05fc1e2/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
-179                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-179-->[androidx.emoji2:emoji2:1.4.0] /Users/jinspark/.gradle/caches/transforms-3/ca465fec743ba01bf3629ca5e05fc1e2/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
-180                android:value="androidx.startup" />
-180-->[androidx.emoji2:emoji2:1.4.0] /Users/jinspark/.gradle/caches/transforms-3/ca465fec743ba01bf3629ca5e05fc1e2/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
-181            <meta-data
-181-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/60482ab4609b140805dd1c5787cf8cce/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
-182                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-182-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/60482ab4609b140805dd1c5787cf8cce/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
-183                android:value="androidx.startup" />
-183-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/60482ab4609b140805dd1c5787cf8cce/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
-184            <meta-data
-184-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/5e17c4fbd3ceb69c57a542ef6a172d77/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
-185                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-185-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/5e17c4fbd3ceb69c57a542ef6a172d77/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
-186                android:value="androidx.startup" />
-186-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/5e17c4fbd3ceb69c57a542ef6a172d77/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
-187        </provider>
+151                <data
+151-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:41:17-44:51
+152                    android:host="firebase.auth"
+152-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:42:21-49
+153                    android:path="/"
+153-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:43:21-37
+154                    android:scheme="recaptcha" />
+154-->[com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:44:21-48
+155            </intent-filter>
+156        </activity>
+157
+158        <property
+158-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/43333c0846732f51c7a9b2c27a576368/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:30:9-32:61
+159            android:name="android.adservices.AD_SERVICES_CONFIG"
+159-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/43333c0846732f51c7a9b2c27a576368/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:31:13-65
+160            android:resource="@xml/ga_ad_services_config" />
+160-->[com.google.android.gms:play-services-measurement-api:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/43333c0846732f51c7a9b2c27a576368/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:32:13-58
+161
+162        <provider
+162-->[com.google.firebase:firebase-common:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/5f8ee1a41865ec9540c7b2adbef602de/transformed/firebase-common-20.4.2/AndroidManifest.xml:23:9-28:39
+163            android:name="com.google.firebase.provider.FirebaseInitProvider"
+163-->[com.google.firebase:firebase-common:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/5f8ee1a41865ec9540c7b2adbef602de/transformed/firebase-common-20.4.2/AndroidManifest.xml:24:13-77
+164            android:authorities="com.shawnapp.chessandchat.firebaseinitprovider"
+164-->[com.google.firebase:firebase-common:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/5f8ee1a41865ec9540c7b2adbef602de/transformed/firebase-common-20.4.2/AndroidManifest.xml:25:13-72
+165            android:directBootAware="true"
+165-->[com.google.firebase:firebase-common:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/5f8ee1a41865ec9540c7b2adbef602de/transformed/firebase-common-20.4.2/AndroidManifest.xml:26:13-43
+166            android:exported="false"
+166-->[com.google.firebase:firebase-common:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/5f8ee1a41865ec9540c7b2adbef602de/transformed/firebase-common-20.4.2/AndroidManifest.xml:27:13-37
+167            android:initOrder="100" />
+167-->[com.google.firebase:firebase-common:20.4.2] /Users/jinspark/.gradle/caches/transforms-3/5f8ee1a41865ec9540c7b2adbef602de/transformed/firebase-common-20.4.2/AndroidManifest.xml:28:13-36
+168
+169        <receiver
+169-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/86ea016ff6e597f2732033e11ea20bcb/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:29:9-33:20
+170            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+170-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/86ea016ff6e597f2732033e11ea20bcb/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:30:13-85
+171            android:enabled="true"
+171-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/86ea016ff6e597f2732033e11ea20bcb/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:31:13-35
+172            android:exported="false" >
+172-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/86ea016ff6e597f2732033e11ea20bcb/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:32:13-37
+173        </receiver>
+174
+175        <service
+175-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/86ea016ff6e597f2732033e11ea20bcb/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:35:9-38:40
+176            android:name="com.google.android.gms.measurement.AppMeasurementService"
+176-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/86ea016ff6e597f2732033e11ea20bcb/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:36:13-84
+177            android:enabled="true"
+177-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/86ea016ff6e597f2732033e11ea20bcb/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:37:13-35
+178            android:exported="false" />
+178-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/86ea016ff6e597f2732033e11ea20bcb/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:38:13-37
+179        <service
+179-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/86ea016ff6e597f2732033e11ea20bcb/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:39:9-43:72
+180            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+180-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/86ea016ff6e597f2732033e11ea20bcb/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:40:13-87
+181            android:enabled="true"
+181-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/86ea016ff6e597f2732033e11ea20bcb/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:41:13-35
+182            android:exported="false"
+182-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/86ea016ff6e597f2732033e11ea20bcb/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:42:13-37
+183            android:permission="android.permission.BIND_JOB_SERVICE" />
+183-->[com.google.android.gms:play-services-measurement:21.5.0] /Users/jinspark/.gradle/caches/transforms-3/86ea016ff6e597f2732033e11ea20bcb/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:43:13-69
+184
+185        <uses-library
+185-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/jinspark/.gradle/caches/transforms-3/d4380c74cf763e164ee9e87abeed9fe8/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
+186            android:name="android.ext.adservices"
+186-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/jinspark/.gradle/caches/transforms-3/d4380c74cf763e164ee9e87abeed9fe8/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:24:13-50
+187            android:required="false" />
+187-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/jinspark/.gradle/caches/transforms-3/d4380c74cf763e164ee9e87abeed9fe8/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:25:13-37
 188
-189        <receiver
-189-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/5e17c4fbd3ceb69c57a542ef6a172d77/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
-190            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-190-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/5e17c4fbd3ceb69c57a542ef6a172d77/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
-191            android:directBootAware="false"
-191-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/5e17c4fbd3ceb69c57a542ef6a172d77/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
-192            android:enabled="true"
-192-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/5e17c4fbd3ceb69c57a542ef6a172d77/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
-193            android:exported="true"
-193-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/5e17c4fbd3ceb69c57a542ef6a172d77/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
-194            android:permission="android.permission.DUMP" >
-194-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/5e17c4fbd3ceb69c57a542ef6a172d77/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
-195            <intent-filter>
-195-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/5e17c4fbd3ceb69c57a542ef6a172d77/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
-196                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-196-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/5e17c4fbd3ceb69c57a542ef6a172d77/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
-196-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/5e17c4fbd3ceb69c57a542ef6a172d77/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
-197            </intent-filter>
-198            <intent-filter>
-198-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/5e17c4fbd3ceb69c57a542ef6a172d77/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
-199                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-199-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/5e17c4fbd3ceb69c57a542ef6a172d77/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
-199-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/5e17c4fbd3ceb69c57a542ef6a172d77/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
-200            </intent-filter>
-201            <intent-filter>
-201-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/5e17c4fbd3ceb69c57a542ef6a172d77/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
-202                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-202-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/5e17c4fbd3ceb69c57a542ef6a172d77/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
-202-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/5e17c4fbd3ceb69c57a542ef6a172d77/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
-203            </intent-filter>
-204            <intent-filter>
-204-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/5e17c4fbd3ceb69c57a542ef6a172d77/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
-205                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-205-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/5e17c4fbd3ceb69c57a542ef6a172d77/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
-205-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/5e17c4fbd3ceb69c57a542ef6a172d77/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
-206            </intent-filter>
-207        </receiver>
-208    </application>
-209
-210</manifest>
+189        <provider
+189-->[androidx.emoji2:emoji2:1.4.0] /Users/jinspark/.gradle/caches/transforms-3/926a66451cc030827f367dedc524b314/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+190            android:name="androidx.startup.InitializationProvider"
+190-->[androidx.emoji2:emoji2:1.4.0] /Users/jinspark/.gradle/caches/transforms-3/926a66451cc030827f367dedc524b314/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+191            android:authorities="com.shawnapp.chessandchat.androidx-startup"
+191-->[androidx.emoji2:emoji2:1.4.0] /Users/jinspark/.gradle/caches/transforms-3/926a66451cc030827f367dedc524b314/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+192            android:exported="false" >
+192-->[androidx.emoji2:emoji2:1.4.0] /Users/jinspark/.gradle/caches/transforms-3/926a66451cc030827f367dedc524b314/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+193            <meta-data
+193-->[androidx.emoji2:emoji2:1.4.0] /Users/jinspark/.gradle/caches/transforms-3/926a66451cc030827f367dedc524b314/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+194                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+194-->[androidx.emoji2:emoji2:1.4.0] /Users/jinspark/.gradle/caches/transforms-3/926a66451cc030827f367dedc524b314/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+195                android:value="androidx.startup" />
+195-->[androidx.emoji2:emoji2:1.4.0] /Users/jinspark/.gradle/caches/transforms-3/926a66451cc030827f367dedc524b314/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+196            <meta-data
+196-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/e32ef53640489bf2717ec1b7fe9739ee/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+197                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+197-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/e32ef53640489bf2717ec1b7fe9739ee/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+198                android:value="androidx.startup" />
+198-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/e32ef53640489bf2717ec1b7fe9739ee/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+199            <meta-data
+199-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+200                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+200-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+201                android:value="androidx.startup" />
+201-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+202        </provider>
+203
+204        <activity
+204-->[com.google.android.gms:play-services-base:18.1.0] /Users/jinspark/.gradle/caches/transforms-3/e66d97e9e65ab06b4268643231274c41/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+205            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+205-->[com.google.android.gms:play-services-base:18.1.0] /Users/jinspark/.gradle/caches/transforms-3/e66d97e9e65ab06b4268643231274c41/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+206            android:exported="false"
+206-->[com.google.android.gms:play-services-base:18.1.0] /Users/jinspark/.gradle/caches/transforms-3/e66d97e9e65ab06b4268643231274c41/transformed/play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+207            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+207-->[com.google.android.gms:play-services-base:18.1.0] /Users/jinspark/.gradle/caches/transforms-3/e66d97e9e65ab06b4268643231274c41/transformed/play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+208
+209        <meta-data
+209-->[com.google.android.gms:play-services-basement:18.2.0] /Users/jinspark/.gradle/caches/transforms-3/0505c7ca4391ca0b346596aee8b817ec/transformed/play-services-basement-18.2.0/AndroidManifest.xml:21:9-23:69
+210            android:name="com.google.android.gms.version"
+210-->[com.google.android.gms:play-services-basement:18.2.0] /Users/jinspark/.gradle/caches/transforms-3/0505c7ca4391ca0b346596aee8b817ec/transformed/play-services-basement-18.2.0/AndroidManifest.xml:22:13-58
+211            android:value="@integer/google_play_services_version" />
+211-->[com.google.android.gms:play-services-basement:18.2.0] /Users/jinspark/.gradle/caches/transforms-3/0505c7ca4391ca0b346596aee8b817ec/transformed/play-services-basement-18.2.0/AndroidManifest.xml:23:13-66
+212
+213        <receiver
+213-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+214            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+214-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+215            android:directBootAware="false"
+215-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+216            android:enabled="true"
+216-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+217            android:exported="true"
+217-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+218            android:permission="android.permission.DUMP" >
+218-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+219            <intent-filter>
+219-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+220                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+220-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+220-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+221            </intent-filter>
+222            <intent-filter>
+222-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+223                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+223-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+223-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+224            </intent-filter>
+225            <intent-filter>
+225-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+226                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+226-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+226-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+227            </intent-filter>
+228            <intent-filter>
+228-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+229                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+229-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+229-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+230            </intent-filter>
+231        </receiver>
+232    </application>
+233
+234</manifest>
