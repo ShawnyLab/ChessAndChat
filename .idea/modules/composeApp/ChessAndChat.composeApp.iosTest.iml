@@ -259,6 +259,10 @@
     <orderEntry type="library" scope="TEST" name="Gradle: dev.gitlive:firebase-config:commonMain:1.11.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: dev.gitlive:firebase-auth:iosMain:1.11.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: dev.gitlive:firebase-auth:commonMain:1.11.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: cafe.adriel.voyager:voyager-navigator:iosMain:1.0.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: cafe.adriel.voyager:voyager-navigator:commonMain:1.0.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.github.aakira:napier:darwinMain:2.7.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.github.aakira:napier:commonMain:2.7.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:atomicfu:commonMain:0.21.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:atomicfu:nativeMain:0.21.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:commonMain:1.7.3" level="project" />
@@ -301,6 +305,8 @@
     <orderEntry type="library" scope="TEST" name="Gradle: dev.gitlive:firebase-app:commonMain:1.11.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core:nativeMain:1.6.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core:commonMain:1.6.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: cafe.adriel.voyager:voyager-core:commonMain:1.0.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: cafe.adriel.voyager:voyager-core:nativeMain:1.0.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-auth:20.7.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-auth-api-phone:18.0.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-auth-base:18.0.4" level="project" />

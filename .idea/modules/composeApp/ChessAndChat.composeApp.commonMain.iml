@@ -55,6 +55,8 @@
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json:nativeMain:1.5.1" level="project" />
     <orderEntry type="library" name="Gradle: dev.gitlive:firebase-config:commonMain:1.11.1" level="project" />
     <orderEntry type="library" name="Gradle: dev.gitlive:firebase-auth:commonMain:1.11.1" level="project" />
+    <orderEntry type="library" name="Gradle: cafe.adriel.voyager:voyager-navigator:commonMain:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.github.aakira:napier:commonMain:2.7.1" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.compose.animation:animation:commonMain:1.5.11" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.compose.animation:animation:nativeMain:1.5.11" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.compose.animation:animation:jsNativeMain:1.5.11" level="project" />
@@ -79,6 +81,7 @@
     <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-unit:jsNativeMain:1.5.11" level="project" />
     <orderEntry type="library" name="Gradle: dev.gitlive:firebase-app:commonMain:1.11.1" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core:commonMain:1.6.0" level="project" />
+    <orderEntry type="library" name="Gradle: cafe.adriel.voyager:voyager-core:commonMain:1.0.0" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.compose.foundation:foundation-layout:commonMain:1.5.11" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.compose.foundation:foundation-layout:uikitMain:1.5.11" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.compose.foundation:foundation-layout:jsNativeMain:1.5.11" level="project" />

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: cafe.adriel.voyager:voyager-core:commonMain:1.0.0" type="kotlin.common" external-system-id="GRADLE">
+    <properties groupId="cafe.adriel.voyager" artifactId="voyager-core" version="1.0.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/kotlinTransformedMetadataLibraries/cafe.adriel.voyager-voyager-core-1.0.0-commonMain-gz9Npg.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cafe.adriel.voyager/voyager-core/1.0.0/2051d4b099794458ccc4bc740251ac4b0d02975d/voyager-core-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

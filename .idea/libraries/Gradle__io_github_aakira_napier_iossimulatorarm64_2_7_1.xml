@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.aakira:napier-iossimulatorarm64:2.7.1" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="io.github.aakira" artifactId="napier-iossimulatorarm64" version="2.7.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.aakira/napier-iossimulatorarm64/2.7.1/97ea43022c495198438b453c04e77991015b2204/napier.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.aakira/napier-iossimulatorarm64/2.7.1/f2d1aaff74e4f0606aedb4c903c64a44a9d43afc/napier-iossimulatorarm64-2.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

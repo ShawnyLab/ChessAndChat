@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.shawnapp.chessandchat.composeApp-mergeDebugResources-51:/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "com.shawnapp.chessandchat.composeApp-mergeDebugResources-52:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "/Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/res/values-watch-v20/values.xml",

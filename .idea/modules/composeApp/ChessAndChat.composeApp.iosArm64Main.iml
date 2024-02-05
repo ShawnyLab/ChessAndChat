@@ -227,6 +227,7 @@
     <orderEntry type="library" name="Gradle: dev.gitlive:firebase-auth-iosarm64:1.11.1" level="project" />
     <orderEntry type="library" name="Gradle: dev.gitlive:firebase-app-iosarm64:1.11.1" level="project" />
     <orderEntry type="library" name="Gradle: dev.gitlive:firebase-common-iosarm64:1.11.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.github.aakira:napier-iosarm64:2.7.1" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.compose.material:material-uikitarm64:1.5.11" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.compose.components:components-resources-iosArm64:1.5.11" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.compose.material:material-ripple-uikitarm64:1.5.11" level="project" />
@@ -243,6 +244,8 @@
     <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-unit-uikitarm64:1.5.11" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-geometry-uikitarm64:1.5.11" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.compose.runtime:runtime-uikitarm64:1.5.11" level="project" />
+    <orderEntry type="library" name="Gradle: cafe.adriel.voyager:voyager-navigator-iosarm64:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: cafe.adriel.voyager:voyager-core-iosarm64:1.0.0" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-iosarm64:1.7.3" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.20" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.20" level="project" />

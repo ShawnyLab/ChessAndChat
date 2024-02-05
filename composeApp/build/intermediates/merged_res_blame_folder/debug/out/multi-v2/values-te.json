@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.shawnapp.chessandchat.composeApp-mergeDebugResources-51:/values-te/values-te.xml",
+            "outputFile": "com.shawnapp.chessandchat.composeApp-mergeDebugResources-52:/values-te/values-te.xml",
             "map": [
                 {
                     "source": "/Users/jinspark/.gradle/caches/transforms-3/dcb0a34053246f4aeeff9179c62371c2/transformed/browser-1.4.0/res/values-te/values-te.xml",

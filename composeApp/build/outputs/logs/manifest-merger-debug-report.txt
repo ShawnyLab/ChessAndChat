@@ -7,6 +7,8 @@ INJECTED from /Users/jinspark/Desktop/CMP/ChessAndChat/composeApp/src/androidMai
 MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/868838d79f6e18fd94b9884b36fe88be/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity:1.8.2] /Users/jinspark/.gradle/caches/transforms-3/de26a83383c621686635be6364f1aa21/transformed/activity-1.8.2/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/jinspark/.gradle/caches/transforms-3/1e5798fb866e3f647fd3fd1d23a8c982/transformed/activity-ktx-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [cafe.adriel.voyager:voyager-navigator-android-debug:1.0.0] /Users/jinspark/.gradle/caches/transforms-3/938885ecb5f094b2e70d56c31884c2c6/transformed/voyager-navigator-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [cafe.adriel.voyager:voyager-core-android-debug:1.0.0] /Users/jinspark/.gradle/caches/transforms-3/b42ceafef28632777ce56dfea0620e7a/transformed/voyager-core-debug/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.activity:activity-compose:1.8.2] /Users/jinspark/.gradle/caches/transforms-3/1e75f4c3ff3106c6e12778788189fae7/transformed/activity-compose-1.8.2/AndroidManifest.xml:2:1-7:12
 MERGED from [org.jetbrains.compose.components:library-android:1.5.11] /Users/jinspark/.gradle/caches/transforms-3/ee3f9ee44e94391063a7a8500dab0fb2/transformed/library-release/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/4948d603697057d7607b041408fd608d/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
@@ -22,8 +24,7 @@ MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/jinspark/.gra
 MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/e71c881e9dace515dbc342052557ccc3/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/37b588e63ad66567bb77c7f09e8ad0f1/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/5fde3caa59d90d93b7b4ac411362ca29/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/97e60da470bdfb6207ed0b42d095e7dc/transformed/ui-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/d2a5202cabce0df44efd9356e2918926/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:17:1-40:12
 MERGED from [dev.gitlive:firebase-database-android-debug:1.11.1] /Users/jinspark/.gradle/caches/transforms-3/2a6b0dc55ee5a1a0474313ad20efe806/transformed/firebase-database-debug/AndroidManifest.xml:2:1-7:12
 MERGED from [dev.gitlive:firebase-firestore-android-debug:1.11.1] /Users/jinspark/.gradle/caches/transforms-3/2061494d166f204126f92717f2b81e63/transformed/firebase-firestore-debug/AndroidManifest.xml:2:1-7:12
 MERGED from [dev.gitlive:firebase-config-android-debug:1.11.1] /Users/jinspark/.gradle/caches/transforms-3/2b717b36f7980ee0f962a368f99822a1/transformed/firebase-config-debug/AndroidManifest.xml:2:1-7:12
@@ -31,7 +32,6 @@ MERGED from [dev.gitlive:firebase-auth-android-debug:1.11.1] /Users/jinspark/.gr
 MERGED from [dev.gitlive:firebase-app-android-debug:1.11.1] /Users/jinspark/.gradle/caches/transforms-3/ec951ccefecca53935ccba9e8bf437a2/transformed/firebase-app-debug/AndroidManifest.xml:2:1-7:12
 MERGED from [dev.gitlive:firebase-common-android-debug:1.11.1] /Users/jinspark/.gradle/caches/transforms-3/522aee16e2a93b04509a1ab3f7963a7b/transformed/firebase-common-debug/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:firebase-auth-ktx:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/1cd5c01210119f54a39dffe04ab15935/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:2:1-17:12
-MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:17:1-40:12
 MERGED from [com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:17:1-75:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/jinspark/.gradle/caches/transforms-3/948aa6a10e67dd0285fc1e98ac3c0e7a/transformed/play-services-auth-api-phone-18.0.1/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/jinspark/.gradle/caches/transforms-3/916faf11feeb98f9b08d795c65139c08/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:2:1-7:12
@@ -57,6 +57,7 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /User
 MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/jinspark/.gradle/caches/transforms-3/41a47c963bb081c65906cc699e0bb193/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/jinspark/.gradle/caches/transforms-3/d4380c74cf763e164ee9e87abeed9fe8/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/jinspark/.gradle/caches/transforms-3/6b98a00245a4b8731c20371fba1b4b47/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/jinspark/.gradle/caches/transforms-3/e202716867d42ea63db6afb634cad418/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jinspark/.gradle/caches/transforms-3/f5de6f8b2fafd3ef5c2d2492c259905e/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/jinspark/.gradle/caches/transforms-3/47dd44c0ff88ee97758a58c6f4d921c2/transformed/play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jinspark/.gradle/caches/transforms-3/aa0cd6bf7dd3db2d4ae3f3db49132a87/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -65,8 +66,6 @@ MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/jinspark/.gradle/caches/transf
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/e32ef53640489bf2717ec1b7fe9739ee/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/5ce68587353b5dd26216f87739e139d4/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/bb3fe71080a6b8212223f8740b83b66a/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/7af5442cf801f4733f3f2ae09a9e37aa/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/jinspark/.gradle/caches/transforms-3/e202716867d42ea63db6afb634cad418/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.browser:browser:1.4.0] /Users/jinspark/.gradle/caches/transforms-3/dcb0a34053246f4aeeff9179c62371c2/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.autofill:autofill:1.0.0] /Users/jinspark/.gradle/caches/transforms-3/355b24ec9373ba3b52ff79c7d81a2575/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jinspark/.gradle/caches/transforms-3/633064d60ac287489b322a0658da3fe4/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -84,7 +83,6 @@ MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/jinspark/.
 MERGED from [androidx.core:core:1.10.0] /Users/jinspark/.gradle/caches/transforms-3/e27434c325762fdd577c5d9661608879/transformed/core-1.10.0/AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/0a1b8bc4cc5c2b4b0117ce58060ce091/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/8db19a0025ae89eae8ba05f4bc32c7be/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/5cf27cb5bf589a3a9bbb2ff40cfce92d/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.play:integrity:1.1.0] /Users/jinspark/.gradle/caches/transforms-3/4949d244b5d6ab7d91443982bc39b21e/transformed/integrity-1.1.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/jinspark/.gradle/caches/transforms-3/fc7e7e337426ad5a7c72796a99e859a8/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:15:1-19:12
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/jinspark/.gradle/caches/transforms-3/bb20334364d2b27e95baeeced379d2da/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
@@ -96,6 +94,12 @@ MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/j
 MERGED from [com.google.android.gms:play-services-basement:18.2.0] /Users/jinspark/.gradle/caches/transforms-3/0505c7ca4391ca0b346596aee8b817ec/transformed/play-services-basement-18.2.0/AndroidManifest.xml:16:1-26:12
 MERGED from [androidx.fragment:fragment:1.0.0] /Users/jinspark/.gradle/caches/transforms-3/b32d6189e1f9dec7e202ca9095fac802/transformed/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/f3230871a02d2fe841a2a02df2ed543a/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/5cf27cb5bf589a3a9bbb2ff40cfce92d/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/7af5442cf801f4733f3f2ae09a9e37aa/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/f2c82d40ac3b2c6d2f5e903e93dae940/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/97e60da470bdfb6207ed0b42d095e7dc/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/d2a5202cabce0df44efd9356e2918926/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [io.github.aakira:napier-android-debug:2.7.1] /Users/jinspark/.gradle/caches/transforms-3/3038eb12913009e5389edb8c2df95869/transformed/napier-debug/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:firebase-config-interop:16.0.0] /Users/jinspark/.gradle/caches/transforms-3/090198e334bd61947f1dafa8a72ad4b1/transformed/firebase-config-interop-16.0.0/AndroidManifest.xml:15:1-20:12
 MERGED from [com.google.firebase:firebase-encoders-json:18.0.1] /Users/jinspark/.gradle/caches/transforms-3/23b82e5590d64f90eac01b27718ea110/transformed/firebase-encoders-json-18.0.1/AndroidManifest.xml:15:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/1419dec7399a73201ae8dea3afb467d2/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
@@ -173,12 +177,10 @@ MERGED from [io.grpc:grpc-android:1.52.1] /Users/jinspark/.gradle/caches/transfo
 application
 ADDED from /Users/jinspark/Desktop/CMP/ChessAndChat/composeApp/src/androidMain/AndroidManifest.xml:7:5-24:19
 INJECTED from /Users/jinspark/Desktop/CMP/ChessAndChat/composeApp/src/androidMain/AndroidManifest.xml:7:5-24:19
-MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/d2a5202cabce0df44efd9356e2918926/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/d2a5202cabce0df44efd9356e2918926/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.firebase:firebase-auth-ktx:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/1cd5c01210119f54a39dffe04ab15935/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:7:5-15:19
-MERGED from [com.google.firebase:firebase-auth-ktx:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/1cd5c01210119f54a39dffe04ab15935/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:7:5-15:19
 MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:22:5-38:19
 MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/1cd5c01210119f54a39dffe04ab15935/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/1cd5c01210119f54a39dffe04ab15935/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:7:5-15:19
 MERGED from [com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:28:5-73:19
 MERGED from [com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:28:5-73:19
 MERGED from [com.google.android.gms:play-services-fido:20.0.1] /Users/jinspark/.gradle/caches/transforms-3/6ae33bf8f424673d38a34310aa4c7c3c/transformed/play-services-fido-20.0.1/AndroidManifest.xml:7:5-8:19
@@ -241,6 +243,8 @@ MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/j
 MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/jinspark/.gradle/caches/transforms-3/367921f5bb7b645008864497f16a5f57/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.android.gms:play-services-basement:18.2.0] /Users/jinspark/.gradle/caches/transforms-3/0505c7ca4391ca0b346596aee8b817ec/transformed/play-services-basement-18.2.0/AndroidManifest.xml:20:5-24:19
 MERGED from [com.google.android.gms:play-services-basement:18.2.0] /Users/jinspark/.gradle/caches/transforms-3/0505c7ca4391ca0b346596aee8b817ec/transformed/play-services-basement-18.2.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/d2a5202cabce0df44efd9356e2918926/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/d2a5202cabce0df44efd9356e2918926/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/jinspark/.gradle/caches/transforms-3/75938d64ee81d0df9fb43b2dc3381c1f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
@@ -291,6 +295,10 @@ MERGED from [androidx.activity:activity:1.8.2] /Users/jinspark/.gradle/caches/tr
 MERGED from [androidx.activity:activity:1.8.2] /Users/jinspark/.gradle/caches/transforms-3/de26a83383c621686635be6364f1aa21/transformed/activity-1.8.2/AndroidManifest.xml:20:5-44
 MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/jinspark/.gradle/caches/transforms-3/1e5798fb866e3f647fd3fd1d23a8c982/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
 MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/jinspark/.gradle/caches/transforms-3/1e5798fb866e3f647fd3fd1d23a8c982/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-navigator-android-debug:1.0.0] /Users/jinspark/.gradle/caches/transforms-3/938885ecb5f094b2e70d56c31884c2c6/transformed/voyager-navigator-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-navigator-android-debug:1.0.0] /Users/jinspark/.gradle/caches/transforms-3/938885ecb5f094b2e70d56c31884c2c6/transformed/voyager-navigator-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-core-android-debug:1.0.0] /Users/jinspark/.gradle/caches/transforms-3/b42ceafef28632777ce56dfea0620e7a/transformed/voyager-core-debug/AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-core-android-debug:1.0.0] /Users/jinspark/.gradle/caches/transforms-3/b42ceafef28632777ce56dfea0620e7a/transformed/voyager-core-debug/AndroidManifest.xml:5:5-44
 MERGED from [androidx.activity:activity-compose:1.8.2] /Users/jinspark/.gradle/caches/transforms-3/1e75f4c3ff3106c6e12778788189fae7/transformed/activity-compose-1.8.2/AndroidManifest.xml:5:5-44
 MERGED from [androidx.activity:activity-compose:1.8.2] /Users/jinspark/.gradle/caches/transforms-3/1e75f4c3ff3106c6e12778788189fae7/transformed/activity-compose-1.8.2/AndroidManifest.xml:5:5-44
 MERGED from [org.jetbrains.compose.components:library-android:1.5.11] /Users/jinspark/.gradle/caches/transforms-3/ee3f9ee44e94391063a7a8500dab0fb2/transformed/library-release/AndroidManifest.xml:5:5-7:41
@@ -321,10 +329,8 @@ MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/jinspark/.gradle/
 MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/37b588e63ad66567bb77c7f09e8ad0f1/transformed/ui-text-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/5fde3caa59d90d93b7b4ac411362ca29/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/5fde3caa59d90d93b7b4ac411362ca29/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/97e60da470bdfb6207ed0b42d095e7dc/transformed/ui-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/97e60da470bdfb6207ed0b42d095e7dc/transformed/ui-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/d2a5202cabce0df44efd9356e2918926/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/d2a5202cabce0df44efd9356e2918926/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
 MERGED from [dev.gitlive:firebase-database-android-debug:1.11.1] /Users/jinspark/.gradle/caches/transforms-3/2a6b0dc55ee5a1a0474313ad20efe806/transformed/firebase-database-debug/AndroidManifest.xml:5:5-44
 MERGED from [dev.gitlive:firebase-database-android-debug:1.11.1] /Users/jinspark/.gradle/caches/transforms-3/2a6b0dc55ee5a1a0474313ad20efe806/transformed/firebase-database-debug/AndroidManifest.xml:5:5-44
 MERGED from [dev.gitlive:firebase-firestore-android-debug:1.11.1] /Users/jinspark/.gradle/caches/transforms-3/2061494d166f204126f92717f2b81e63/transformed/firebase-firestore-debug/AndroidManifest.xml:5:5-44
@@ -339,8 +345,6 @@ MERGED from [dev.gitlive:firebase-common-android-debug:1.11.1] /Users/jinspark/.
 MERGED from [dev.gitlive:firebase-common-android-debug:1.11.1] /Users/jinspark/.gradle/caches/transforms-3/522aee16e2a93b04509a1ab3f7963a7b/transformed/firebase-common-debug/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth-ktx:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/1cd5c01210119f54a39dffe04ab15935/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth-ktx:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/1cd5c01210119f54a39dffe04ab15935/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:21:5-23:64
 MERGED from [com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:21:5-23:64
 MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/jinspark/.gradle/caches/transforms-3/948aa6a10e67dd0285fc1e98ac3c0e7a/transformed/play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
@@ -391,6 +395,8 @@ MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/jin
 MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/jinspark/.gradle/caches/transforms-3/d4380c74cf763e164ee9e87abeed9fe8/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/jinspark/.gradle/caches/transforms-3/6b98a00245a4b8731c20371fba1b4b47/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/jinspark/.gradle/caches/transforms-3/6b98a00245a4b8731c20371fba1b4b47/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/jinspark/.gradle/caches/transforms-3/e202716867d42ea63db6afb634cad418/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/jinspark/.gradle/caches/transforms-3/e202716867d42ea63db6afb634cad418/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jinspark/.gradle/caches/transforms-3/f5de6f8b2fafd3ef5c2d2492c259905e/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jinspark/.gradle/caches/transforms-3/f5de6f8b2fafd3ef5c2d2492c259905e/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/jinspark/.gradle/caches/transforms-3/47dd44c0ff88ee97758a58c6f4d921c2/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
@@ -407,10 +413,6 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/jinspark/.
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/5ce68587353b5dd26216f87739e139d4/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/bb3fe71080a6b8212223f8740b83b66a/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/bb3fe71080a6b8212223f8740b83b66a/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/7af5442cf801f4733f3f2ae09a9e37aa/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/7af5442cf801f4733f3f2ae09a9e37aa/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/jinspark/.gradle/caches/transforms-3/e202716867d42ea63db6afb634cad418/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/jinspark/.gradle/caches/transforms-3/e202716867d42ea63db6afb634cad418/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.browser:browser:1.4.0] /Users/jinspark/.gradle/caches/transforms-3/dcb0a34053246f4aeeff9179c62371c2/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.browser:browser:1.4.0] /Users/jinspark/.gradle/caches/transforms-3/dcb0a34053246f4aeeff9179c62371c2/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.autofill:autofill:1.0.0] /Users/jinspark/.gradle/caches/transforms-3/355b24ec9373ba3b52ff79c7d81a2575/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
@@ -445,8 +447,6 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/jinspark/.gradle
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/0a1b8bc4cc5c2b4b0117ce58060ce091/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/8db19a0025ae89eae8ba05f4bc32c7be/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/8db19a0025ae89eae8ba05f4bc32c7be/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/5cf27cb5bf589a3a9bbb2ff40cfce92d/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/5cf27cb5bf589a3a9bbb2ff40cfce92d/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.play:integrity:1.1.0] /Users/jinspark/.gradle/caches/transforms-3/4949d244b5d6ab7d91443982bc39b21e/transformed/integrity-1.1.0/AndroidManifest.xml:4:5-44
 MERGED from [com.google.android.play:integrity:1.1.0] /Users/jinspark/.gradle/caches/transforms-3/4949d244b5d6ab7d91443982bc39b21e/transformed/integrity-1.1.0/AndroidManifest.xml:4:5-44
 MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/jinspark/.gradle/caches/transforms-3/fc7e7e337426ad5a7c72796a99e859a8/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
@@ -469,6 +469,18 @@ MERGED from [androidx.fragment:fragment:1.0.0] /Users/jinspark/.gradle/caches/tr
 MERGED from [androidx.fragment:fragment:1.0.0] /Users/jinspark/.gradle/caches/transforms-3/b32d6189e1f9dec7e202ca9095fac802/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/f3230871a02d2fe841a2a02df2ed543a/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/f3230871a02d2fe841a2a02df2ed543a/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/5cf27cb5bf589a3a9bbb2ff40cfce92d/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/5cf27cb5bf589a3a9bbb2ff40cfce92d/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/7af5442cf801f4733f3f2ae09a9e37aa/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/7af5442cf801f4733f3f2ae09a9e37aa/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/f2c82d40ac3b2c6d2f5e903e93dae940/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/jinspark/.gradle/caches/transforms-3/f2c82d40ac3b2c6d2f5e903e93dae940/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/97e60da470bdfb6207ed0b42d095e7dc/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/97e60da470bdfb6207ed0b42d095e7dc/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/d2a5202cabce0df44efd9356e2918926/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/d2a5202cabce0df44efd9356e2918926/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [io.github.aakira:napier-android-debug:2.7.1] /Users/jinspark/.gradle/caches/transforms-3/3038eb12913009e5389edb8c2df95869/transformed/napier-debug/AndroidManifest.xml:5:5-44
+MERGED from [io.github.aakira:napier-android-debug:2.7.1] /Users/jinspark/.gradle/caches/transforms-3/3038eb12913009e5389edb8c2df95869/transformed/napier-debug/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-config-interop:16.0.0] /Users/jinspark/.gradle/caches/transforms-3/090198e334bd61947f1dafa8a72ad4b1/transformed/firebase-config-interop-16.0.0/AndroidManifest.xml:18:5-44
 MERGED from [com.google.firebase:firebase-config-interop:16.0.0] /Users/jinspark/.gradle/caches/transforms-3/090198e334bd61947f1dafa8a72ad4b1/transformed/firebase-config-interop-16.0.0/AndroidManifest.xml:18:5-44
 MERGED from [com.google.firebase:firebase-encoders-json:18.0.1] /Users/jinspark/.gradle/caches/transforms-3/23b82e5590d64f90eac01b27718ea110/transformed/firebase-encoders-json-18.0.1/AndroidManifest.xml:18:5-20:41
@@ -507,12 +519,26 @@ MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/jinsp
 		INJECTED from /Users/jinspark/Desktop/CMP/ChessAndChat/composeApp/src/androidMain/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /Users/jinspark/Desktop/CMP/ChessAndChat/composeApp/src/androidMain/AndroidManifest.xml
-activity#androidx.compose.ui.tooling.PreviewActivity
-ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/d2a5202cabce0df44efd9356e2918926/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:25:13-46
 	android:exported
-		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/d2a5202cabce0df44efd9356e2918926/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:27:13-72
 	android:name
-		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/d2a5202cabce0df44efd9356e2918926/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:34:13-89
 service#com.google.firebase.components.ComponentDiscoveryService
 ADDED from [com.google.firebase:firebase-auth-ktx:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/1cd5c01210119f54a39dffe04ab15935/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:8:9-14:19
 MERGED from [com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:66:9-72:19
@@ -553,26 +579,6 @@ ADDED from [com.google.firebase:firebase-auth-ktx:22.3.0] /Users/jinspark/.gradl
 		ADDED from [com.google.firebase:firebase-auth-ktx:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/1cd5c01210119f54a39dffe04ab15935/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:13:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-auth-ktx:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/1cd5c01210119f54a39dffe04ab15935/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:12:17-119
-activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:23:9-27:75
-	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:25:13-46
-	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:26:13-37
-	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:27:13-72
-	android:name
-		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:24:13-93
-service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:33:9-37:51
-	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:35:13-36
-	android:visibleToInstantApps
-		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:37:13-48
-	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:36:13-107
-	android:name
-		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/jinspark/.gradle/caches/transforms-3/89dea6131236aac6e57a5fc26bb6d0e3/transformed/play-services-auth-20.7.0/AndroidManifest.xml:34:13-89
 activity#com.google.firebase.auth.internal.GenericIdpActivity
 ADDED from [com.google.firebase:firebase-auth:22.3.0] /Users/jinspark/.gradle/caches/transforms-3/853e2565b41a003c7986248cc32359c2/transformed/firebase-auth-22.3.0/AndroidManifest.xml:29:9-46:20
 	android:excludeFromRecents
@@ -867,6 +873,12 @@ ADDED from [com.google.android.gms:play-services-basement:18.2.0] /Users/jinspar
 		ADDED from [com.google.android.gms:play-services-basement:18.2.0] /Users/jinspark/.gradle/caches/transforms-3/0505c7ca4391ca0b346596aee8b817ec/transformed/play-services-basement-18.2.0/AndroidManifest.xml:23:13-66
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:18.2.0] /Users/jinspark/.gradle/caches/transforms-3/0505c7ca4391ca0b346596aee8b817ec/transformed/play-services-basement-18.2.0/AndroidManifest.xml:22:13-58
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/d2a5202cabce0df44efd9356e2918926/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/d2a5202cabce0df44efd9356e2918926/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/jinspark/.gradle/caches/transforms-3/d2a5202cabce0df44efd9356e2918926/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
 meta-data#androidx.profileinstaller.ProfileInstallerInitializer
 ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jinspark/.gradle/caches/transforms-3/8d06a37e34f12c0c232ba34c33995da8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
 	android:value

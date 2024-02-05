@@ -51,6 +51,9 @@ kotlin {
             implementation("dev.gitlive:firebase-config:1.11.1")
             implementation("dev.gitlive:firebase-auth:1.11.1")
             implementation("com.google.android.gms:play-services-auth:20.7.0")
+            implementation("cafe.adriel.voyager:voyager-navigator:1.0.0")
+            implementation("io.github.aakira:napier:2.7.1")
+
         }
     }
 }

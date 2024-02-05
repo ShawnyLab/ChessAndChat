@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.shawnapp.chessandchat.composeApp-mergeDebugResources-51:/values-or/values-or.xml",
+            "outputFile": "com.shawnapp.chessandchat.composeApp-mergeDebugResources-52:/values-or/values-or.xml",
             "map": [
                 {
                     "source": "/Users/jinspark/.gradle/caches/transforms-3/97e60da470bdfb6207ed0b42d095e7dc/transformed/ui-release/res/values-or/values-or.xml",

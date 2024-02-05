@@ -19,6 +19,8 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import cafe.adriel.voyager.core.annotation.InternalVoyagerApi
+import cafe.adriel.voyager.navigator.Navigator
 import dev.gitlive.firebase.Firebase
 import dev.gitlive.firebase.firestore.firestore
 import models.ChessRoom
@@ -26,59 +28,14 @@ import org.jetbrains.compose.resources.ExperimentalResourceApi
 import org.jetbrains.compose.resources.painterResource
 import utils.ChessBlack
 import utils.ChessGray
+import views.HomeView
 
-@OptIn(ExperimentalResourceApi::class)
+@OptIn(InternalVoyagerApi::class)
 @Composable
 fun App() {
     MaterialTheme {
-        Box(modifier = Modifier.fillMaxSize()
-            .background(color = ChessBlack),
-            contentAlignment = Alignment.Center) {
+        Navigator(HomeView())
 
-            Column(
-                horizontalAlignment = Alignment.CenterHorizontally
-            ) {
-                Image(
-                    painter = painterResource("logo.png"),
-                    contentDescription = null,
-                    contentScale = ContentScale.FillWidth,
-                )
-
-                Row(modifier = Modifier.padding(top = 30.dp)) {
-                    Text("C", color = ChessGray, fontSize = 20.sp)
-                    Text("hess", color = Color.White, fontSize = 20.sp)
-
-                    Text(" A", color = ChessGray, fontSize = 20.sp)
-                    Text("nd", color = Color.White, fontSize = 20.sp)
-
-                    Text(" C", color = ChessGray, fontSize = 20.sp)
-                    Text("hat", color = Color.White, fontSize = 20.sp)
-                }
-
-                Button(onClick = {
-
-                }, modifier = Modifier
-                    .fillMaxWidth()
-                    .padding(horizontal = 20.dp)
-                    .padding(top = 40.dp),
-                    colors = ButtonDefaults.buttonColors(backgroundColor = Color.White)) {
-                    Text("Chess", color = ChessBlack, fontSize = 20.sp)
-                }
-
-                Text("OR", color = Color.White, fontSize = 20.sp, modifier = Modifier.padding(top = 30.dp))
-
-                Button(onClick = {
-
-                }, modifier = Modifier
-                    .fillMaxWidth()
-                    .padding(horizontal = 20.dp)
-                    .padding(top = 30.dp),
-                    colors = ButtonDefaults.buttonColors(backgroundColor = Color.White)) {
-                    Text("Chat", color = ChessBlack, fontSize = 20.sp)
-                }
-            }
-
-        }
 
 //        Column(Modifier.fillMaxWidth(), horizontalAlignment = Alignment.CenterHorizontally) {
 
